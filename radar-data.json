@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-29T22:09:46.044988+00:00",
+  "generated_at": "2026-04-29T22:10:54.923741+00:00",
   "stats": {
     "total": 79,
     "urgent": 6,
@@ -990,7 +990,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-29T22:10:28Z",
+    "fetched_at": "2026-04-29T22:11:53Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1093,7 +1093,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-29T22:11:45Z",
+    "fetched_at": "2026-04-29T22:13:21Z",
     "hours_ahead": 24,
     "events": [
       {
