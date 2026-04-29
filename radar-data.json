@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-29T16:41:59.304193+00:00",
+  "generated_at": "2026-04-29T22:09:46.044988+00:00",
   "stats": {
-    "total": 94,
+    "total": 79,
     "urgent": 6,
-    "decision": 14,
-    "info": 71,
+    "decision": 13,
+    "info": 57,
     "noise_filtered": 3,
-    "draft_candidates": 9
+    "draft_candidates": 8
   },
   "lanes": {
     "urgent": [
@@ -18,7 +18,7 @@
         "to": "sergio.pozuelo@angolacables.com",
         "date": "2026-04-29T11:24:11+00:00",
         "preview": "No images? Click here    April 29, 2026  Gilat Awarded over $7 Million for its New EnduroStream Solution to Support the U.S. Department of War  Gilat Satellite Networks announced today that G",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -109,26 +109,12 @@
         "to": "quadevr@twyn.ai",
         "date": "2026-04-29T15:06:04+00:00",
         "preview": "Hello Quade,  Just replied to you WhatsApp message but I wil infrm here that our visit to your offices is preferable on Wednesday, 06/May, afternoon (3pm?).  Look forward to meet you.   De: Qua",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
           "decision/question hint",
           "CC-only — no auto-draft"
-        ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ6AAA=",
-        "subject": "FW: Actualização de preços Angola Telecom_Order form 3-4743022",
-        "from": "frederico.daniel@angolacables.co.ao",
-        "to": "otniel.acacio@angolacables.com;elizandra.companhia@angolacables.com;sergio.pozuelo@angolacables.com",
-        "date": "2026-04-29T13:52:45+00:00",
-        "preview": "@Otniel Acácio,  Como ficou este tema?  ________________________________ De: Fernando Cruz <fernando.cruz@angolacables.com> Enviado: 23 de dezembro de 2024 12:58 Para: Pricing AO <pricing.ao@an",
-        "isRead": false,
-        "needs_draft": true,
-        "is_direct": true,
-        "reasons": [
-          "decision/question hint"
         ]
       },
       {
@@ -167,7 +153,7 @@
         "to": "sergio.pozuelo@angolacables.co.ao",
         "date": "2026-04-28T20:04:29+00:00",
         "preview": "Join us tomorrow for Data Centre Day, Registrations are open *|MC_PREVIEW_TEXT|* ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -210,7 +196,7 @@
         "to": "kelveny.ramos@angolacables.com;customer-care@angolacables.co.ao;service.delivery@angolacables.co.ao;amanda.arruda@angolacables.co.ao;sergio.pozuelo@angolacables.com;thabo.ntlatsang@telcables.co.za;sudhir.juggernath@telcables.co.za",
         "date": "2026-04-28T09:26:28+00:00",
         "preview": "Good morning Kelveny, I haven’t received any feedback from the Sales team yet. @Thabo Ntlatsang @Sudhir Juggernath, could you please share the latest update on this request?   ___________________",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -282,7 +268,7 @@
         "to": "sergio.pozuelo@angolacables.com",
         "date": "2026-04-27T11:22:08+00:00",
         "preview": "No images? Click here    Meet us in Booth #4M1-1 to hear about Gilat's Leading Technologies and Solutions    *   Digital Inclusion: Enabling digital transformation to empower remote communities",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -307,6 +293,30 @@
     ],
     "info": [
       {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlROAAA=",
+        "subject": "WO00000000325092 | MW | ANGOLA CABLES NETWORK | START 23:59 UTC 02/06/2026",
+        "from": "csm@angolacables.co.ao",
+        "to": "NOC@angolacables.com",
+        "date": "2026-04-29T19:22:10+00:00",
+        "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
+        "isRead": false,
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRNAAA=",
+        "subject": "RE: PROJECT_ID || 2061602018_ ESM PLATFORM IMPLEMENTATION || Weekly Project Planning & Alignment",
+        "from": "modesto.bemba@angolacables.co.ao",
+        "to": "alanb@jurumani.com;tiaang@jurumani.com;antoinettek@jurumani.co.za",
+        "date": "2026-04-29T19:22:00+00:00",
+        "preview": "Dear @Alan Brower, I hope this message finds you well. I am sharing attached the meeting notes from our session held on April 24, regarding the Weekly Project Planning & Alignment. and also the lin",
+        "isRead": false,
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRGAAA=",
         "subject": "MeetGeek Updates – Close, WhatsApp, Mobile Calendar, and more",
         "from": "hello@meetgeek.ai",
@@ -319,108 +329,12 @@
         "reasons": []
       },
       {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRFAAA=",
-        "subject": "RE: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
-        "from": "customer-care@angolacables.co.ao",
-        "to": "cf@dontstop-play.com;customer-care@angolacables.co.ao",
-        "date": "2026-04-29T15:48:43+00:00",
-        "preview": "Prezado Cliente,  Boa tarde.  Agradecemos pelo pronto feedback.  Informamos que a sua solicitação foi devidamente encaminhada para a área responsável, encontrando-se em análise. Assim que tiverm",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlREAAA=",
-        "subject": "RE: Suspensão Temporária de Serviços ",
-        "from": "customer-care@angolacables.co.ao",
-        "to": "customer-care@angolacables.co.ao;vivaldo.campos@optima.co.ao;rossana.conceicao@optima.co.ao",
-        "date": "2026-04-29T15:23:48+00:00",
-        "preview": "PÓS-VENDA CUSTOMER CARE   Prezado Cliente,  Boa tarde, esperamos que este email o encontre bem.  Na sequência da vossa comunicação relativa ao pedido de cancelamento dos serviços associados à",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRDAAA=",
-        "subject": "Re: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
-        "from": "cf@dontstop-play.com",
-        "to": "customer-care@angolacables.co.ao",
-        "date": "2026-04-29T15:22:08+00:00",
-        "preview": "Boa tarde,  Solicito então que o serviço seja desactivado e anulado quando se concretizarem os 90 dias do pedido efectuado e que contractualmente exigem. Aproveito para informar (e manifestar) o me",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRCAAA=",
         "subject": "RE: Post Linkedin AICEP",
         "from": "rosema.matias@angolacables.co.ao",
         "to": "sergio.pozuelo@angolacables.com",
         "date": "2026-04-29T15:13:01+00:00",
         "preview": "Boa tarde, Sérgio. Espero-te bem.  Somente agora vejo o teu e-mail. Entretanto, a minha sugestão - reforçando a conversa da nossa última reunião - seria seguir com um artigo de opinião, que teria",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRAAAA=",
-        "subject": "RE: Actualização de preços Angola Telecom_Order form 3-4743022",
-        "from": "frederico.daniel@angolacables.co.ao",
-        "to": "otniel.acacio@angolacables.com;elizandra.companhia@angolacables.com;sergio.pozuelo@angolacables.com",
-        "date": "2026-04-29T14:47:18+00:00",
-        "preview": "Obrigado @Otniel Acácio.  Diante disso vou propor serviço 10G L2 sendo mais rápido em caso de implementação (temos esta capacidade no rede IP). Atenção que o mesmo deve ser apresentação no âmbito da",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ-AAA=",
-        "subject": "RE: Jurumani / Angola Cables - Twyn Implementation",
-        "from": "quadevr@twyn.ai",
-        "to": "rui.faria@angolacables.com",
-        "date": "2026-04-29T14:23:38+00:00",
-        "preview": "Hello Rui,  I’ve tried to call you and have sent you a message on WhatsApp. Please do let me know when next week would be most suitable for the visit to our offices.  It would be great to meet wit",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ8AAA=",
-        "subject": "RE: Actualização de preços Angola Telecom_Order form 3-4743022",
-        "from": "otniel.acacio@angolacables.com",
-        "to": "frederico.daniel@angolacables.co.ao;elizandra.companhia@angolacables.com;sergio.pozuelo@angolacables.com",
-        "date": "2026-04-29T13:57:59+00:00",
-        "preview": "Boa tarde, Frederico.  Espero que estejas bem.  A reunião foi realizada por Lilia, Ngola, Fernando e eu, foi apresentado um valor à AT e eles recusaram, mantendo o serviço down.  Referente ao va",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ7AAA=",
-        "subject": "RE: Pedidos Gerais GJ | General Requests LD: 977/1023_Amancio Pedro_2026-04-09T08:32:06Z",
-        "from": "ilidio.janota@angolacables.com",
-        "to": "customer-care@angolacables.co.ao;gabinete.juridico@angolacables.co.ao;amancio.pedro@angolacables.com",
-        "date": "2026-04-29T13:56:20+00:00",
-        "preview": "@Amancio,  Boa tarde.  Na sequência da vossa solicitação, abaixo o Parecer Jurídico.  I. ‎Parecer Jurídico Após análise da documentação enviada sobre o pedido de cancelamento da Order form (dor",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ5AAA=",
-        "subject": "RE: Aquisition Full Rack",
-        "from": "ousama.naous@epcabral.com",
-        "to": "sergio.pozuelo@angolacables.com;mobin.habib@epcabral.com",
-        "date": "2026-04-29T13:46:30+00:00",
-        "preview": "Dear Sergio, Please note that the attached Order Form relates to a colocation service for one cabinet requested for a period of six months. We would like to inform you that this cabinet will be relea",
         "isRead": true,
         "needs_draft": false,
         "is_direct": true,
@@ -451,51 +365,15 @@
         "reasons": []
       },
       {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ0AAA=",
-        "subject": "Re: Example Cases for Dashboards | Revenue, Backlog, Renewals & Forecast | 6 Decisions Needed on Pipeline Calculations",
-        "from": "alryns@jurumani.com",
-        "to": "augusto.gomes@angolacables.com;otniel.acacio@angolacables.com;alanb@jurumani.com;tiaang@jurumani.com;alryns@jurumani.com",
-        "date": "2026-04-29T12:23:24+00:00",
-        "preview": "Hello Augusto, hope you are well.  Added your request to the Exports tab views.  A few notes:    *   \"Product Subfamily\" was already in the export data, previously labeled \"Service\", the field n",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQzAAA=",
-        "subject": "RE: Visit to Angola  - Visa Application",
-        "from": "virgilio.alves@angolacables.com",
-        "to": "artur.mendes@angolacables.com;mutiiria@amazon.co.uk;eder.guimaraes@angolacables.com",
-        "date": "2026-04-29T12:17:43+00:00",
-        "preview": "Hello Artur and Martin,  7th is a good date.  BR ________________________________ De: Artur Mendes <artur.mendes@angolacables.com> Enviado: 28 de abril de 2026 17:11 Para: Mutiiria, Martin <mu",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQyAAA=",
         "subject": "Re: Thabo's Travel Itinerary Q2",
         "from": "alisha.badassy@telcables.co.za",
         "to": "sergio.pozuelo@angolacables.com",
         "date": "2026-04-29T12:02:36+00:00",
         "preview": "Dear Sergio  trust you well and safe, any update on the below.   Regards  Get Outlook for iOS ________________________________ From: Alisha Badassy <alisha.badassy@telcables.co.za> Sent: Mon",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQvAAA=",
-        "subject": "Re: Jurumani / Angola Cables - Twyn Implementation",
-        "from": "russella@jurumani.com",
-        "to": "rui.faria@angolacables.com",
-        "date": "2026-04-29T10:50:19+00:00",
-        "preview": "Hi Rui,  I will unfortunately be in Capetown next week but the team will be glad to host you.  We will be in touch to align on timing.  Regards,  Russell  On Wed, Apr 29, 2026 at 12:01 PM Ru",
         "isRead": true,
         "needs_draft": false,
-        "is_direct": false,
+        "is_direct": true,
         "reasons": []
       },
       {
@@ -505,18 +383,6 @@
         "to": "babatunde.adeoye@telcables.ng",
         "date": "2026-04-29T10:06:25+00:00",
         "preview": "Dear Tunde,  Please find attached the reviewed MSA. Kindly check and revert back for closure.   Kind Regards,  Chidimma Iwuoha | Senior Procurement Officer | Supply Chain  |  Netcom Africa Lim",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQoAAA=",
-        "subject": "Re: Jurumani / Angola Cables - Twyn Implementation",
-        "from": "rui.faria@angolacables.com",
-        "to": "alanb@jurumani.com;quadevr@twyn.ai;tiaang@jurumani.com;russella@jurumani.com",
-        "date": "2026-04-29T10:00:55+00:00",
-        "preview": "Good morning Alan et al,  Next week I will be in Johannesburg for a business trip at our subsidiar of South Africa and it would be a good opportunity to pay a visit to Jurumani offices if possible.",
         "isRead": true,
         "needs_draft": false,
         "is_direct": false,
@@ -577,7 +443,7 @@
         "to": "artur.mendes@angolacables.com",
         "date": "2026-04-28T22:48:51+00:00",
         "preview": "Hi Artur,  Comments inline.  Regards,   ________________________________ De: Artur Mendes <artur.mendes@angolacables.com> Enviada: Segunda-feira, 27 de Abril de 2026 19:30 Para: Frederico Da",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -739,18 +605,6 @@
         "reasons": []
       },
       {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQLAAA=",
-        "subject": "Re: Visit to Angola  - Visa Application",
-        "from": "artur.mendes@angolacables.com",
-        "to": "mutiiria@amazon.co.uk;eder.guimaraes@angolacables.com;virgilio.alves@angolacables.com",
-        "date": "2026-04-28T15:11:26+00:00",
-        "preview": "Dear Martin,  OK great.  Virgilio and Éder,  Let me know if you prefer 6 or 7th of May for the visit and align with Martin the details.  Thank you  De: Mutiiria, Martin <mutiiria@amazon.co.u",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQDAAA=",
         "subject": "INC000000035129 | FAULT | LINK DOWN SINCE 14:15 UTC 27/04/2026",
         "from": "csm@angolacables.co.ao",
@@ -811,30 +665,6 @@
         "reasons": []
       },
       {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP8AAA=",
-        "subject": "RE: Example Cases for Dashboards | Revenue, Backlog, Renewals & Forecast | 6 Decisions Needed on Pipeline Calculations",
-        "from": "augusto.gomes@angolacables.com",
-        "to": "alryns@twyn.ai;otniel.acacio@angolacables.com;alanb@jurumani.com;tiaang@jurumani.com;alryns@jurumani.com",
-        "date": "2026-04-28T09:15:27+00:00",
-        "preview": "Good morning Alryn,  Thank you for your answers and for clarifying the details.  I believe we are close to being on the same page. We just need to verify a few adjustments.  Could you please add",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP6AAA=",
-        "subject": "Re: Example Cases for Dashboards | Revenue, Backlog, Renewals & Forecast | 6 Decisions Needed on Pipeline Calculations",
-        "from": "alryns@twyn.ai",
-        "to": "otniel.acacio@angolacables.com;augusto.gomes@angolacables.com;alanb@jurumani.com;tiaang@jurumani.com;alryns@jurumani.com",
-        "date": "2026-04-28T08:34:23+00:00",
-        "preview": "Hello Otniel, hope you are well.  We are aligned on the following:    *   The global target has been updated to USD 53,500,000 for 2026. Link: https://angolac.twyn.ai/user_portal/solutiontabviews/",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP5AAA=",
         "subject": "RE: Vendas por jurisdição",
         "from": "augusto.gomes@angolacables.com",
@@ -844,18 +674,6 @@
         "isRead": false,
         "needs_draft": false,
         "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP4AAA=",
-        "subject": "Re: Example Cases for Dashboards | Revenue, Backlog, Renewals & Forecast | 6 Decisions Needed on Pipeline Calculations",
-        "from": "alryns@twyn.ai",
-        "to": "augusto.gomes@angolacables.com;alanb@jurumani.com;tiaang@jurumani.com;alryns@jurumani.com",
-        "date": "2026-04-28T08:15:49+00:00",
-        "preview": "Hello Augusto, thank you for the clarifications.  Our actions:    *   Potential Renewals (D1): implemented the BRD formula with the 0.9 factor and day fraction as specified   *   Delivery Lead Ti",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": false,
         "reasons": []
       },
       {
@@ -1161,7 +979,6 @@
     ]
   },
   "draft_candidates": [
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ6AAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQxAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQfAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQcAAA=",
@@ -1173,7 +990,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-29T16:43:36Z",
+    "fetched_at": "2026-04-29T22:10:28Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1269,26 +1086,16 @@
       }
     ],
     "stats": {
-      "overdue_total": 45,
+      "overdue_total": 44,
       "overdue_shown": 8,
       "next_48h": 1
     }
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-29T16:44:53Z",
+    "fetched_at": "2026-04-29T22:11:45Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAFlLPKgAAA=",
-        "subject": "Seminário de Inteligência Artificial para tomada de decisões estratégicas, U.S. Embassy Luanda, que ocorrerá nos dias 25 e 26 de março de 2026.",
-        "start": "2026-04-28T07:00:00.0000000",
-        "end": "2026-04-29T17:00:00.0000000",
-        "location": "",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "free"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAIekLcsAAA=",
         "subject": "Cilix | Angola Cables Meeting ",
@@ -1341,7 +1148,7 @@
       }
     ],
     "stats": {
-      "total": 6
+      "total": 5
     }
   }
 }
