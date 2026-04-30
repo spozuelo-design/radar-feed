@@ -1,13 +1,16 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T09:58:04.556641+00:00",
+  "generated_at": "2026-04-30T11:06:22.521345+00:00",
   "stats": {
     "total": 100,
     "urgent": 8,
-    "decision": 16,
-    "info": 73,
+    "decision": 15,
+    "info": 74,
     "noise_filtered": 3,
-    "draft_candidates": 10
+    "draft_candidates": 10,
+    "engagement_check_active": false,
+    "skipped_existing_draft": 0,
+    "skipped_already_replied": 0
   },
   "lanes": {
     "urgent": [
@@ -18,7 +21,8 @@
         "to": "sergio.pozuelo@angolacables.com;rafael.lozano@telcables.com.br;sudhir.juggernath@telcables.co.za",
         "date": "2026-04-30T09:38:51+00:00",
         "preview": "Dear All,  We’re seeing a deep revenue drop since the beginning of this year, nothing compared with last year (our worst performance in years).  As we’re about to enter middle of Q2, please submit",
-        "isRead": false,
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwjlOolbEBElE2g8MLieWw=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -33,6 +37,7 @@
         "date": "2026-04-30T09:34:06+00:00",
         "preview": "Dear @Olu Sowunmi,   Find the test results and please note the following:      1. Today Apr 28 is the handover date and should be the RFS date. You did NOT inform that the circuit was ready an",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAA7H3cEIDGdLpKXMStmZR9k=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -48,6 +53,7 @@
         "date": "2026-04-29T11:24:11+00:00",
         "preview": "No images? Click here    April 29, 2026  Gilat Awarded over $7 Million for its New EnduroStream Solution to Support the U.S. Department of War  Gilat Satellite Networks announced today that G",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMBpQHwCqFxKkrFeSehEWm4=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -62,6 +68,7 @@
         "date": "2026-04-28T15:27:22+00:00",
         "preview": "Hello Maria and Team,  Thank you for the handover document.  Please note the following     1.  Today Apr 28 is the handover date and should be the RFS date. You did NOT inform that the circuit",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAA7H3cEIDGdLpKXMStmZR9k=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -77,6 +84,7 @@
         "date": "2026-04-28T13:20:47+00:00",
         "preview": "Olá, @Bruna Rodrigues, Bom dia!      Favor enviar a solicitação de desativação IMEDIATA do serviço de IP Transit 1Gbps-DC Equinix RJ2 do cliente Corelink conforme De Acordo do nosso CEO @Rafael Loz",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAHVR1gzuAitIgm5yQm70aVk=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -92,6 +100,7 @@
         "date": "2026-04-27T15:27:44+00:00",
         "preview": "Boa tarde Fred,  Tenho a Hilda a enviar-me emails todos os dias e preciso da tua ajuda para enviar hoje sem falta.  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: sexta-feira,",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADaQxa_eskKvnDQU_NMnOe8=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -107,6 +116,7 @@
         "date": "2026-04-27T15:21:52+00:00",
         "preview": "Dear Ariete,  Thanks and please find the order counter-signed.  The AFR-IX service delivery will get back to you asap.  Best regards, Dylan  From: Ariete Pereira <ariete.pereira@angolacables.",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOO7VU9ukdhNnpexWjHIrfM=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -122,6 +132,7 @@
         "date": "2026-04-27T10:25:31+00:00",
         "preview": "Dear Arlindo, Good morning. I am currently finalizing a deal that requires a commitment to our protected Lagos Metro ring. Could you please confirm if we are still on track for the early June comple",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALseTsUauTNPmFdtZGh0s9Q=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -139,6 +150,7 @@
         "date": "2026-04-30T08:31:01+00:00",
         "preview": "Hello Elizandra,                       Thank you a lot, I have a question though, when you say it is offnet for Angola Cables, does it mean Angola cables and Telecables?    Sherif Noussair Telco",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -154,6 +166,7 @@
         "date": "2026-04-30T08:20:34+00:00",
         "preview": "Dear Osvaldo and team  Your team promised the responses yesterday. We are in a thigh timeline to deliver this project  Please you please provide all the information before 10 am?  Regards,  Mo",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAF6s-R7qPdpCrobT5SB5fsg=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -169,6 +182,7 @@
         "date": "2026-04-30T02:13:31+00:00",
         "preview": "Que opinam @Sergio Pozuelo e @Diego Nunes?",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -183,6 +197,7 @@
         "date": "2026-04-29T15:06:04+00:00",
         "preview": "Hello Quade,  Just replied to you WhatsApp message but I wil infrm here that our visit to your offices is preferable on Wednesday, 06/May, afternoon (3pm?).  Look forward to meet you.   De: Qua",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3Sf8Z-7ZlHj7LicG7DxpE=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -198,6 +213,7 @@
         "date": "2026-04-29T09:19:55+00:00",
         "preview": "Hello Elizandra,                          We didn’t get any quotes for these circuits? We don’t have to complete them all, send me what you have for now at least , everyone else answered already",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -213,6 +229,7 @@
         "date": "2026-04-29T08:16:58+00:00",
         "preview": "Bom dia Sergio,  O que se passa aqui?  Todos os melhores vendedores (ras) estão a exigir mais condições ou então vão se embora. Acho que falta trabalho de retenção adequado.  Desde o ano passado",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGLPaQizmYNPgkMZm19AO80=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -227,6 +244,7 @@
         "date": "2026-04-28T20:04:29+00:00",
         "preview": "Join us tomorrow for Data Centre Day, Registrations are open *|MC_PREVIEW_TEXT|* ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMauFdCgqL9MmRnqXchI6_A=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -241,6 +259,7 @@
         "date": "2026-04-28T13:52:32+00:00",
         "preview": "_____  Dear Customer,  Let us know how your experience was by sharing your feedback, it takes less than a minute. Shall we get started? Click on the link below.      We are glad to inform th",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAILadS49b8lMhqnjahNUf38=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -256,6 +275,7 @@
         "date": "2026-04-28T12:34:30+00:00",
         "preview": "Caro Sergio  Ja passou passou algum tempo. Ja temos update disto? Temos urgência em fechar o assunto  Cumprimentos  Mobin Habib  From: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Date: M",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAM2ac76PDUtCl6E2l5Y46qw=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -270,6 +290,7 @@
         "date": "2026-04-28T09:26:28+00:00",
         "preview": "Good morning Kelveny, I haven’t received any feedback from the Sales team yet. @Thabo Ntlatsang @Sudhir Juggernath, could you please share the latest update on this request?   ___________________",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAH2IYPub55xGuqQqT6cPzn8=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -284,6 +305,7 @@
         "date": "2026-04-28T08:51:53+00:00",
         "preview": "Hi @Patience  From our end, can we consider these services canceled?  ________________________________ De: Patience Tigere <patience.tigere@telcables.co.za> Enviada: Sexta-feira, 17 de Abril de",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAH2IYPub55xGuqQqT6cPzn8=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -298,6 +320,7 @@
         "date": "2026-04-28T06:50:41+00:00",
         "preview": "Dear Sergio We are reaching out because we believe you may know of a business in Angola that is looking to raise capital, and we would like to help. The African Investments Dashboard is Africa's lea",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOCIDdcuo6FJu03JJZbPaDg=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -312,6 +335,7 @@
         "date": "2026-04-27T16:09:56+00:00",
         "preview": "Hi Fred,  Have you have been able to quote this one?  Thank you  De: Artur Mendes <artur.mendes@angolacables.com> Data: quinta-feira, 2 de abril de 2026 às 10:36 Para: Frederico Daniel <freder",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKXEFlAmqUXBua4jjjnILqs=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -327,6 +351,7 @@
         "date": "2026-04-27T15:10:37+00:00",
         "preview": "Boa tarde Fred,  OK, obrigado.  E o mínimo para apenas 12 meses que foi o que o cliente me pediu?  De: Frederico Daniel <frederico.daniel@angolacables.co.ao> Data: segunda-feira, 27 de abril de",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwX8bIiRd1ElcIqkaVdTFA=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -342,29 +367,67 @@
         "date": "2026-04-27T11:22:08+00:00",
         "preview": "No images? Click here    Meet us in Booth #4M1-1 to hear about Gilat's Leading Technologies and Solutions    *   Digital Inclusion: Enabling digital transformation to empower remote communities",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJ8uKtRGSPZLuFUaRsaWObc=",
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
           "decision/question hint"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPRAAA=",
-        "subject": "Re: Telin RFQ#00002632 / 200G WACS",
-        "from": "artur.mendes@angolacables.com",
-        "to": "frederico.daniel@angolacables.co.ao;pricing.ao@angolacables.co.ao",
-        "date": "2026-04-27T10:18:30+00:00",
-        "preview": "Bom dia Fred,  Posso ter a tua resposta sobre o melhor que podemos fazer e tendo em conta que são 200G?  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: quinta-feira, 23 de abr",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "decision/question hint",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRoAAA=",
+        "subject": "RE: Post Linkedin AICEP",
+        "from": "rosema.matias@angolacables.co.ao",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-04-30T11:01:30+00:00",
+        "preview": "Olá, Sérgio.  Bem recebido. Vou partilhar com a nossa agência, para melhorar o enquadramento e seguir com um tom menos comercial.  Em momento oportuno, partilho a versão final para aprovação.",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOxT04r0EBdClDEbxtl8qo0=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRnAAA=",
+        "subject": "FW: Termination Request// Meridianam Atlanticus Funis // OF 2886978 // CT62014",
+        "from": "walter.narciso@angolacables.com",
+        "to": "ricardo.dala@angolacables.com;edmilson.lopes@angolacables.com",
+        "date": "2026-04-30T11:00:29+00:00",
+        "preview": "Boas @Ricardo Dala, @Edmilson Lopes, Conforme o e-mail em anexo relativo ao pedido de cancelamento de um serviço do cliente PCCW, ficou acordado que faturaremos até 12/05/2026. Após essa data, podere",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADWrdJISD3dAsWeGzY6rINk=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRmAAA=",
+        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
+        "from": "thabo.ntlatsang@telcables.co.za",
+        "to": "ivanio.costa@angolacables.com;vitor.pinho@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
+        "date": "2026-04-30T10:50:30+00:00",
+        "preview": "Hi Ivanio and Vito, I hope you are well. I am following up again regarding the outstanding card and QSFP for the Teraco Durban POP. The customer signed the SOF on 28 February 2026, and we are now s",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRlAAA=",
+        "subject": "Angola Cables | BCS IPT",
+        "from": "elizandra.companhia@angolacables.com",
+        "to": "yonas@bcs-ea.com",
+        "date": "2026-04-30T10:42:22+00:00",
+        "preview": "Hi Yonas, I hope this email finds you well. Further to your discussion with Sergio, please find attached the OF for the IPT service for your review. We kindly ask for your analysis and signature at",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAG6f1U3bDXNGo1ypmlhV1s4=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRkAAA=",
         "subject": "Re: [Angola Cables] Request for Angola - Nigeria MPLS VPN - Huatong Cables",
@@ -373,6 +436,7 @@
         "date": "2026-04-30T09:43:06+00:00",
         "preview": "Fred,  Tenho o cliente a perguntar de novo pelo preço.  Envia-me por favor.  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: quarta-feira, 22 de abril de 2026 às 11:05 Para:",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAEZpCn_itthErE4l6MqKf84=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -385,6 +449,7 @@
         "date": "2026-04-30T09:00:27+00:00",
         "preview": "hi Sergio  I hope that all is well  I agree and disagree with you  Dubai is always on a different level and very overwhelming, this part I agree with you.  I disagree on the part of customer s",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACWz1LFXPJhAvvlAr-Jud_Q=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -397,6 +462,7 @@
         "date": "2026-04-30T08:53:02+00:00",
         "preview": "Dear Chen,  Trust this email meets you well.  Please note that we are yet to receive the value of the payment you shared.  Kindly share the telex copy so we follow up with our bank, or you can f",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMPg-UpprvRBpkEDJla3JaU=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -409,6 +475,7 @@
         "date": "2026-04-30T08:50:03+00:00",
         "preview": "Bom dia, a todos. Acho sensato em prol a futuras parcerias, flexibilizar o valor da multa.  Estou de acordo, com a proposta abaixo. Quanto a 1/4 de rack, existe uma fila de clientes aguardando a d",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -421,6 +488,7 @@
         "date": "2026-04-30T08:45:44+00:00",
         "preview": "Hi Sherif,  Correct.   ________________________________ De: sherif.noussair@orange.com <sherif.noussair@orange.com> Enviado: 30 de abril de 2026 09:30 Para: Elizandra Companhia <elizandra.comp",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -433,6 +501,7 @@
         "date": "2026-04-30T08:43:35+00:00",
         "preview": "Noted and thank you Quade.   De: Quade van Rooyen <quadevr@twyn.ai> Data: quinta-feira, 30 de abril de 2026 às 07:02 Para: Rui Faria <rui.faria@angolacables.com> CC: Alan Brower <alanb@jurumani.",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3Sf8Z-7ZlHj7LicG7DxpE=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -445,6 +514,7 @@
         "date": "2026-04-30T08:43:27+00:00",
         "preview": "Dear Chen, Thank you for your payment regarding the December 2025 invoice; we truly appreciate your continued partnership. Regarding your request for a waiver on the March 2026 invoice, please be ad",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMPg-UpprvRBpkEDJla3JaU=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -457,6 +527,7 @@
         "date": "2026-04-30T08:37:23+00:00",
         "preview": "Bom dia Virgilio, Esse foi um serviço FTP customizado e feito para atender o cliente em especifico. Não é um produto de carteira. Enquanto não se abrem tickets via DOC ou contactem o suporte nunca sa",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -469,6 +540,7 @@
         "date": "2026-04-30T08:37:10+00:00",
         "preview": "Antonio ,  Bom dia !  Pensei que este assunto ja tivesse sido fechado   ________________________________ De: Josefina Francisco <josefina.francisco@angolacables.com> Enviadas: Quarta-feira, 2",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKHrwdWU3PVGoYf3etRXqn8=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -481,6 +553,7 @@
         "date": "2026-04-30T08:17:01+00:00",
         "preview": "Hi Sherif, I hope you are doing well. Please accept my apologies for the delay in getting back to you. We carefully reviewed your request, and unfortunately, we are unable to proceed as it is curren",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -493,6 +566,7 @@
         "date": "2026-04-30T06:17:50+00:00",
         "preview": "Bom dia Samuel,  Sempre tivemos dificuldades neste serviço desde o início, mas acredito que podemos rever e afinar, para melhorar a qualidade, ou perceber as dificuldades do Cliente e criar um plano",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -505,6 +579,7 @@
         "date": "2026-04-30T06:15:43+00:00",
         "preview": "Bom dia Sérgio,  Afirmativo. Entrarei em contacto com a Elizandra. ________________________________ De: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Enviado: 29 de abril de 2026 19:20 Para:",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGLPaQizmYNPgkMZm19AO80=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -517,6 +592,7 @@
         "date": "2026-04-30T06:03:06+00:00",
         "preview": "Hello Rui,  Thank you for your email. The meeting is confirmed. The address for our offices is in the meeting request. Please note that the main entrance to our office park is being renovated. Plea",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3Sf8Z-7ZlHj7LicG7DxpE=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -529,6 +605,7 @@
         "date": "2026-04-30T03:05:28+00:00",
         "preview": "Favor esperar ao feedback do Sérgio e Diego.  Obrigado  Obtener Outlook para iOS ________________________________ De: Daniele Maranhão <daniele.maranhao@telcables.com.br> Enviado: Wednesday, Ap",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -541,6 +618,7 @@
         "date": "2026-04-30T02:42:56+00:00",
         "preview": "Olá, @Rafael Lozano, Boa noite!  Seguiremos então com a sugestão do desconto de 50%. @Rafaela Carvalho, tendo em conta que a Vanessa está ausente, favor dar sequência a este tema.    Obter o O",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -553,6 +631,7 @@
         "date": "2026-04-30T01:54:29+00:00",
         "preview": "Hello Maria,  Kindly confirm if you conducted an RFC 2544 test, a BERT test , or any similar tests on this circuit.  We only see a LAN Layer 2 Traffic Term Test Report attached and it just for 4 h",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAA7H3cEIDGdLpKXMStmZR9k=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -565,6 +644,7 @@
         "date": "2026-04-29T22:48:54+00:00",
         "preview": "Continue the journey tomorrow with bold conversations shaping Africa’s future *|MC_PREVIEW_TEXT|* ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKlAHdNLTDVNn7Vb-PLoG08=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -577,6 +657,7 @@
         "date": "2026-04-29T19:22:10+00:00",
         "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAFtzARigDkYsgjT9y7uLjtc=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -588,7 +669,8 @@
         "to": "alanb@jurumani.com;tiaang@jurumani.com;antoinettek@jurumani.co.za",
         "date": "2026-04-29T19:22:00+00:00",
         "preview": "Dear @Alan Brower, I hope this message finds you well. I am sharing attached the meeting notes from our session held on April 24, regarding the Weekly Project Planning & Alignment. and also the lin",
-        "isRead": false,
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANiYFBbRHblOtL0aVQAFLVk=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -601,6 +683,7 @@
         "date": "2026-04-29T16:28:23+00:00",
         "preview": "Hi Sergio,  This release leans heavily on a recurring theme: getting MeetGeek out of the browser and into the places where work happens. Your phone, your CRM, your WhatsApp. We've been hearing this",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALM8Nn0ko3JHsQXDgO0n5Ag=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -613,6 +696,7 @@
         "date": "2026-04-29T15:13:01+00:00",
         "preview": "Boa tarde, Sérgio. Espero-te bem.  Somente agora vejo o teu e-mail. Entretanto, a minha sugestão - reforçando a conversa da nossa última reunião - seria seguir com um artigo de opinião, que teria",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOxT04r0EBdClDEbxtl8qo0=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -625,6 +709,7 @@
         "date": "2026-04-29T13:35:31+00:00",
         "preview": "20% off ends April 30 at 11:59 PM EST.   Hi Sergio, If your inbox is still:  - Eating hours of your week - Forcing you to rewrite basic replies - Making you hunt for important messages  Then",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP9w0obsHtxEnHh-_LV1EcM=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -637,6 +722,7 @@
         "date": "2026-04-29T12:43:10+00:00",
         "preview": "West Africa’s digital infrastructure sector has taken an exciting step forward. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAPr8Zhct-OpBoO7eqRK-EZo=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -649,6 +735,7 @@
         "date": "2026-04-29T12:02:36+00:00",
         "preview": "Dear Sergio  trust you well and safe, any update on the below.   Regards  Get Outlook for iOS ________________________________ From: Alisha Badassy <alisha.badassy@telcables.co.za> Sent: Mon",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACWz1LFXPJhAvvlAr-Jud_Q=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -661,6 +748,7 @@
         "date": "2026-04-29T10:06:25+00:00",
         "preview": "Dear Tunde,  Please find attached the reviewed MSA. Kindly check and revert back for closure.   Kind Regards,  Chidimma Iwuoha | Senior Procurement Officer | Supply Chain  |  Netcom Africa Lim",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAD98gm7dEGJKtX8-DwmuRAA=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -673,6 +761,7 @@
         "date": "2026-04-29T09:17:26+00:00",
         "preview": "Inside Datacloud Global Congress   Hi Sergio,  With Datacloud Global Congress fast approaching and an esteemed group of companies already confirmed, momentum is building for the biggest edition y",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANqMSEyAe6hLjWDEJhRgt9g=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -685,6 +774,7 @@
         "date": "2026-04-29T09:16:30+00:00",
         "preview": "Hello Customer care & Commercial Team,  We currently have two 10G circuits active on WACS for Angola Telecom, for which we are incurring backhaul costs with MEO (Seixal to Lisbon).  Internal ID W",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOZ_V4RxUwRDlMUfTQcg2ds=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -697,6 +787,7 @@
         "date": "2026-04-29T09:16:17+00:00",
         "preview": "Inside Datacloud Global Congress   Hi Sergio,  With Datacloud Global Congress fast approaching and an esteemed group of companies already confirmed, momentum is building for the biggest edition y",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGofCa8MuUNArABxPWUNtgs=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -709,6 +800,7 @@
         "date": "2026-04-29T08:06:37+00:00",
         "preview": "Join us to build what’s next: Oct 19–22, 2026. The Internet is no longer a delivery mechanism; it is a global, intelligent fabric. As AI begins to uncover vulnerabilities at machine speed, the foundat",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAeFdR1RE7tCoL7dJ2Hl5yU=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -721,6 +813,7 @@
         "date": "2026-04-28T22:48:51+00:00",
         "preview": "Hi Artur,  Comments inline.  Regards,   ________________________________ De: Artur Mendes <artur.mendes@angolacables.com> Enviada: Segunda-feira, 27 de Abril de 2026 19:30 Para: Frederico Da",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB7SDScvXEoeproLx0lcnac=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -733,6 +826,7 @@
         "date": "2026-04-28T19:56:06+00:00",
         "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAHMBsO-ELkF8vGYAR_suk3g=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -745,6 +839,7 @@
         "date": "2026-04-28T18:22:17+00:00",
         "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMkzCIlbd6hGlzdtWOg1rzA=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -757,6 +852,7 @@
         "date": "2026-04-28T17:50:48+00:00",
         "preview": "Boa Tarde Teresa Espero que esteja tudo bem. Gostaria de solicitar uma revisão da minha remuneração, tendo em consideração a minha evolução profissional, o desempenho apresentado nas minhas funções",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGLPaQizmYNPgkMZm19AO80=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -769,6 +865,7 @@
         "date": "2026-04-28T17:46:47+00:00",
         "preview": "Ariete  Aqui vai assinada  Obg S  From: Ariete Pereira <ariete.pereira@angolacables.com> Date: Monday, 27 April 2026 at 16:59 To: Samuel Carvalho <samuel.carvalho@angolacables.co.ao>, Augusto",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOO7VU9ukdhNnpexWjHIrfM=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -781,6 +878,7 @@
         "date": "2026-04-28T16:55:56+00:00",
         "preview": "Dear colleagues, Please analyse and proceed accordingly.    ________________________________ De: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Enviadas: Terça-feira, 28 de Abril de 2026 17:4",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAFzLeLAH9wZBvdF3_Vt6Wng=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -793,6 +891,7 @@
         "date": "2026-04-28T16:54:15+00:00",
         "preview": "hi Bruno and Sergio  I hope that all is well  thanks for your email.  This is and will always be our stance credit and recognition needs to go were it is deserved.  You have my and my teams fu",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAFzLeLAH9wZBvdF3_Vt6Wng=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -805,6 +904,7 @@
         "date": "2026-04-28T16:53:42+00:00",
         "preview": "Hi @Mahen Naidu,  Check also again 100G Djibouti to Johannesburg and advise.  Regards,   ________________________________ De: Mahen Naidu <mahendran.naidu@telcables.co.za> Enviada: Terça-feir",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAODdXHM59UBdqYRlY1ihmXQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -817,6 +917,7 @@
         "date": "2026-04-28T16:28:34+00:00",
         "preview": "Boa tarde Rishid, Espero que te encontres bem. Segue em anexo o convite de acesso ao ADF, que terá lugar amanhã. Desejo-te um excelente evento e muito sucesso nas interações e oportunidades comerci",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADw18mjF3WNOvUYn4ZwgK_U=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -829,6 +930,7 @@
         "date": "2026-04-28T16:27:10+00:00",
         "preview": "Boa tarde Danilson, Espero que te encontres bem. Segue em anexo o convite de acesso ao ADF, que terá lugar amanhã. Desejo-te um excelente evento e muito sucesso nas interações e oportunidades comer",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABc61-soVqpIhmIVSidAWF4=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -841,6 +943,7 @@
         "date": "2026-04-28T16:25:47+00:00",
         "preview": "Boa tarde Danilson, Espero que te encontres bem. Segue em anexo o convite de acesso ao ADF, que terá lugar amanhã. Desejo-te um excelente evento e muito sucesso nas interações e oportunidades comer",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGKgvQYY6ShBmiFLiaBTjJE=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -853,6 +956,7 @@
         "date": "2026-04-28T16:24:36+00:00",
         "preview": "Boa tarde Elizandra, Espero que te encontres bem. Segue em anexo o convite de acesso ao ADF, que terá lugar amanhã. Desejo-te um excelente evento e muito sucesso nas interações e oportunidades come",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAALhINoerzpOn3VrWPIM27k=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -865,6 +969,7 @@
         "date": "2026-04-28T15:58:47+00:00",
         "preview": "Hi Team  Let me try again.  @Frederico Daniel...i will check and advise  Get Outlook for Android ________________________________ From: Artur Mendes <artur.mendes@angolacables.com> Sent: Tues",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAODdXHM59UBdqYRlY1ihmXQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -877,6 +982,7 @@
         "date": "2026-04-28T15:38:25+00:00",
         "preview": "Fred,  Obrigado. Achava que com o 2Africa, ficaria bem mais fácil a costa East de Africa, mas já vi que não...  De: Frederico Daniel <frederico.daniel@angolacables.co.ao> Data: terça-feira, 28 de",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAODdXHM59UBdqYRlY1ihmXQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -889,6 +995,7 @@
         "date": "2026-04-28T12:21:12+00:00",
         "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAHAhUNoj6kgrshGVWrOZdSc=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -901,6 +1008,7 @@
         "date": "2026-04-28T11:19:16+00:00",
         "preview": "Artur, Good morning.  This is No Bid. Pre-sales do not received prices confirmation from 3rd party, even for ByteDance we did not quote this route.  Regards, ________________________________ De",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAODdXHM59UBdqYRlY1ihmXQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -913,6 +1021,7 @@
         "date": "2026-04-28T11:18:47+00:00",
         "preview": "Caro @Amancio, Bom dia.  Abaixo o Parecer Jurídico, conforme vossa solicitação.  I. ‎Parecer Jurídico Após análise da documentação enviada sobre o pedido de cancelamento da Order form (doravante",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANTNehg0Al9IpfHsdqIRDQI=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -925,6 +1034,7 @@
         "date": "2026-04-28T10:59:22+00:00",
         "preview": "Dear @Olu Sowunmi,  Once the service's operability has been confirmed, we formalise the conclusion for this permanent circuit IPLC - DWDM, with the RFS being on 23/04/2026. Below are more details a",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAA7H3cEIDGdLpKXMStmZR9k=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -937,6 +1047,7 @@
         "date": "2026-04-28T10:55:37+00:00",
         "preview": "Bom dia, Fred.  Como falado, temos o pedido de cotação de IPT da BCS com os detalhes abaixo:  IPT Angonap Capacidade : 20G committed e 30G Burst Target : $25.000. Termos do burst partilhado: Bu",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADD0SmicAGdDi31HFOEkUdQ=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -949,6 +1060,7 @@
         "date": "2026-04-28T08:29:15+00:00",
         "preview": "Bom dia, Sérgio,  Existe um documento de 2022 cujas nomenclaturas, apesar de antigas, precedem os nomes atuais de cada subsidiária e dos respetivos mercados associados.     Atenciosamente / Bes",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -961,6 +1073,7 @@
         "date": "2026-04-28T08:09:21+00:00",
         "preview": "_____  Dear Customer,  Angola Cables values your experience with Technical Support (NOC) and considers each interaction an opportunity to improve the quality of our services.  In just two minute",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB7uR96tL3VPtFl8B5_-PI0=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -973,6 +1086,7 @@
         "date": "2026-04-27T23:45:39+00:00",
         "preview": "Don't miss 90+ visionary speakers and the continent's biggest tech exhibitors *|MC_PREVIEW_TEXT|* ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAONmY0iIFaxJltt9_W8GGO0=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -985,6 +1099,7 @@
         "date": "2026-04-27T18:30:59+00:00",
         "preview": "Fred,  Envia-me este também que tenho a CT a perguntar de novo...  De: Artur Mendes <artur.mendes@angolacables.com> Data: sexta-feira, 17 de abril de 2026 às 18:48 Para: Frederico Daniel <freder",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB7SDScvXEoeproLx0lcnac=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -997,6 +1112,7 @@
         "date": "2026-04-27T17:37:52+00:00",
         "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAHAhUNoj6kgrshGVWrOZdSc=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1009,6 +1125,7 @@
         "date": "2026-04-27T16:12:41+00:00",
         "preview": "Fred,  Third one from Tata that we still didn’t quote despite have receiving them at beginning of April….  De: Artur Mendes <artur.mendes@angolacables.com> Data: quinta-feira, 2 de abril de 2026",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAPUtXDqkRUvQpLTIC6LYuLM=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1021,6 +1138,7 @@
         "date": "2026-04-27T16:11:00+00:00",
         "preview": "Fred,  Same to this one  De: Mahen Naidu <mahendran.naidu@telcables.co.za> Data: quarta-feira, 1 de abril de 2026 às 16:19 Para: Artur Mendes <artur.mendes@angolacables.com>, Frederico Daniel <f",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAODdXHM59UBdqYRlY1ihmXQ=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1033,6 +1151,7 @@
         "date": "2026-04-27T15:59:29+00:00",
         "preview": "Boa Tarde Team,  Segue OF da AFR-IX Spain para assinatura interna e implementação. O cliente está com urgência na implementação do serviço, agradeço o vosso suporte.  Att, ______________________",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOO7VU9ukdhNnpexWjHIrfM=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1045,6 +1164,7 @@
         "date": "2026-04-27T15:46:40+00:00",
         "preview": "Dear Sir,  I hope this finds you well,  Kindly note this is a follow-up on my previous email requesting the documents for vendor onboarding. We would appreciate your prompt response to enable us t",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAFa_vl7-CcpMgcUiALJfMH8=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1057,6 +1177,7 @@
         "date": "2026-04-27T15:40:39+00:00",
         "preview": "Artur, boa tarde.  Segue o mínimo para cada 100G no contrato de 12 Meses.     * Capacidade: 100G   * NRC (Setup fee): USD 5 000,00   * Mensalidade: USD 15 500,00   * Contrato: 12 Meses.",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwX8bIiRd1ElcIqkaVdTFA=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1069,6 +1190,7 @@
         "date": "2026-04-27T15:38:02+00:00",
         "preview": "@Artur Mendes,  Segue.  100Mbps Service A-End B-End Bandwidth (Mbps) Term (months) NRC (Setup Fee) MRC (Monthly) Total Contract Value EPLC-L2VPN Teraco Johannesburg, JB1 DC Paratus Luan",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADaQxa_eskKvnDQU_NMnOe8=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1081,6 +1203,7 @@
         "date": "2026-04-27T15:35:03+00:00",
         "preview": "Hi @Mahen and @Jacqueline, good day  Please note that the status of this service has been changed from “On Hold” to “Pending” so that we can better track this issue.  Could you please let us know",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAIQcwlmnKO9Ii8ZuPPYPEZ4=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1093,6 +1216,7 @@
         "date": "2026-04-27T14:06:09+00:00",
         "preview": "New month, new habits. Start with your inbox.  Hi Sergio,  Somewhere along the way, your inbox became… a lot.  Too many threads.  Too many things to reply to.  Too much time just figuring ou",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGIOB3GLET5No3Ij763vacQ=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -1105,6 +1229,7 @@
         "date": "2026-04-27T14:01:02+00:00",
         "preview": "Saudações prezado @Anatoli Soares,   Em anexo encontre a nossa proposta comercial para o serviço solicitado.   Qualquer questão, disponha!",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADvLm5CzhUVCvYhycLzISOc=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1117,6 +1242,7 @@
         "date": "2026-04-27T14:00:53+00:00",
         "preview": "Boa tarde Sergio,  Os objetivos a definir individualmente para a AVD 2026 para todos os colaboradores da área comercial (independente da vertical de negocio), deve ser proposta para  minha revisão p",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADFfRM9xDgpBgOn1agEP754=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -1129,6 +1255,7 @@
         "date": "2026-04-27T13:49:23+00:00",
         "preview": "@Artur Mendes, bom dia.  O melhor preço para cada 100G, é conforme mencionei anteriormente e o contrato mínimo é 3 anos.     * Capacidade: 100G   * NRC (Setup fee): USD 5 000,00   * Mensalid",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwX8bIiRd1ElcIqkaVdTFA=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1141,6 +1268,7 @@
         "date": "2026-04-27T13:40:13+00:00",
         "preview": "Vanusa,  As vendas internacionais deve ser vista pela perspetiva histórica e não pelas jurisdições que começou a ser aplicada há 1-2 anos atras.   De: Vanusa Gomes <vanusa.gomes@angolacables.com>",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -1153,6 +1281,7 @@
         "date": "2026-04-27T13:26:02+00:00",
         "preview": "Boas Ilídio,  Segue o documento em anexo, tal como solicitado.  Obrigado   ________________________________ De: Customer Care <customer-care@angolacables.co.ao> Enviado: 23 de abril de 2026 1",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANTNehg0Al9IpfHsdqIRDQI=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1165,6 +1294,7 @@
         "date": "2026-04-27T12:44:50+00:00",
         "preview": "Hello Sergio,  I hope you're keeping well!  I am pleased to invite you to our upcoming webinar on “​​How generative, agentic and sovereign AI are reshaping telco growth in MENA”.  This will be a",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKEDHZZcVq9OoANoauoVujU=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -1177,6 +1307,7 @@
         "date": "2026-04-27T11:28:24+00:00",
         "preview": "ADM Rui,  Não participei e recebi nada de estratégia vindo dessas reuniões.  A preocupação está nas vendas internacionais de cada uma das jurisdições, melhor dizendo, contratos com entidades não r",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -1189,6 +1320,7 @@
         "date": "2026-04-27T11:18:23+00:00",
         "preview": "Sergio,  Mas esta na altura das Operações de Venda terem este tipo de documento que obriga a ser atualizado anualmente.   De: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Data: segunda-feira",
         "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
@@ -1201,44 +1333,9 @@
         "date": "2026-04-27T10:23:02+00:00",
         "preview": "PÓS-VENDA CUSTOMER CARE   Bom dia, Parceiro,  Esperamos que este e-mail o encontre bem.  Na sequência da vossa comunicação relativa ao pedido de rescisão dos serviços associados às Order Forms",
         "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB24mdrXnXlBp0CV7YDY2Eo=",
         "needs_draft": false,
         "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPPAAA=",
-        "subject": "Fortinet Named a Leader Again – 2025 Gartner® Magic Quadrant™",
-        "from": "info@global.fortinet.com",
-        "to": "sergio.pozuelo@angolacables.co.ao",
-        "date": "2026-04-27T10:04:23+00:00",
-        "preview": "Recognized for Vision. Trusted for Execution.  Recognized for Vision. Trusted for Execution. | View email online  Fortinet Named a Leader Again – 2025 Gartner® Magic Quadrant™ Learn more in this",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPNAAA=",
-        "subject": "FW: DC | Preparaçāo da vertical de negocio WHOLESALE",
-        "from": "rui.faria@angolacables.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-27T09:53:09+00:00",
-        "preview": "Bom dia Sergio,  Agradeço alinhares com o Nsucami para a mudança das pessoas para as salas respetivas por favor.   De: Samuel Carvalho <samuel.carvalho@angolacables.co.ao> Data: segunda-feira, 2",
-        "isRead": true,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPGAAA=",
-        "subject": "Unlock Your Brand’s Potential at Capacity Europe 2026",
-        "from": "marketing@comms.capacityglobal.com",
-        "to": "sergio.pozuelo@angolacables.co.ao",
-        "date": "2026-04-27T08:32:15+00:00",
-        "preview": "Meet 4000+ attendees  ENQUIRE ABOUT SPONSORSHIP FOR CAPACITY EUROPE 2026  Hello Sergio,  ​  If you want guaranteed face time with the people who matter, and to turn conversations into real dea",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": true,
         "reasons": []
       }
     ]
@@ -1257,7 +1354,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T09:59:24Z",
+    "fetched_at": "2026-04-30T11:12:33Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1349,19 +1446,9 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T10:00:41Z",
+    "fetched_at": "2026-04-30T11:12:52Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAIekLcvAAA=",
-        "subject": "TV Cabo MOZ | Angola Cables Meeting ",
-        "start": "2026-04-30T10:00:00.0000000",
-        "end": "2026-04-30T11:00:00.0000000",
-        "location": "",
-        "organizer": "Elizandra Companhia",
-        "isOnline": false,
-        "showAs": "tentative"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAIekLctAAA=",
         "subject": "TMCEL | Angola Cables Meeting ",
@@ -1380,6 +1467,26 @@
         "location": "Microsoft Teams Meeting",
         "organizer": "Quade van Rooyen",
         "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAInvD7BAAA=",
+        "subject": "Relatorio Performance TCSA",
+        "start": "2026-04-30T14:00:00.0000000",
+        "end": "2026-04-30T15:00:00.0000000",
+        "location": "Reuniões do Microsoft Teams",
+        "organizer": "Sergio Pozuelo",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAInvD7CAAA=",
+        "subject": "Africell - AMCSA - American Chamber of Commerce",
+        "start": "2026-04-30T15:00:00.0000000",
+        "end": "2026-04-30T16:00:00.0000000",
+        "location": "Africell Sede",
+        "organizer": "Sergio Pozuelo",
+        "isOnline": false,
         "showAs": "busy"
       },
       {
@@ -1441,10 +1548,20 @@
         "organizer": "Sergio Pozuelo",
         "isOnline": false,
         "showAs": "free"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAADpgxp_AAA=",
+        "subject": "Avaliação de Performance | DCM | Interinidade ",
+        "start": "2026-05-01T10:30:00.0000000",
+        "end": "2026-05-01T11:00:00.0000000",
+        "location": "Sala de Directores",
+        "organizer": "António da Cruz",
+        "isOnline": true,
+        "showAs": "busy"
       }
     ],
     "stats": {
-      "total": 9
+      "total": 11
     }
   }
 }
