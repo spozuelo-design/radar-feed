@@ -1,12 +1,12 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T13:06:25.493895+00:00",
+  "generated_at": "2026-04-30T14:06:22.378471+00:00",
   "stats": {
     "total": 100,
-    "urgent": 9,
+    "urgent": 8,
     "decision": 15,
     "info": 74,
-    "noise_filtered": 2,
+    "noise_filtered": 3,
     "draft_candidates": 10,
     "engagement_check_active": false,
     "skipped_existing_draft": 0,
@@ -138,25 +138,25 @@
           "urgent keyword",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPjAAA=",
-        "subject": "RE: SOF_: Lisbon ↔ Luanda Connectivity Solution (80Mbps)",
-        "from": "dcarver@afr-ix.com",
-        "to": "ariete.pereira@angolacables.com",
-        "date": "2026-04-27T15:21:52+00:00",
-        "preview": "Dear Ariete,  Thanks and please find the order counter-signed.  The AFR-IX service delivery will get back to you asap.  Best regards, Dylan  From: Ariete Pereira <ariete.pereira@angolacables.",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOO7VU9ukdhNnpexWjHIrfM=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "urgent keyword",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "decision": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR1AAA=",
+        "subject": "RES: Validação de Perfil – Analista Comercial (Dados BR)",
+        "from": "rafael.lozano@telcables.com.br",
+        "to": "emanuela.weyne@angolacables.co.ao;angelo.gama@angolacables.com;teresa.vunge@angolacables.com",
+        "date": "2026-04-30T13:30:28+00:00",
+        "preview": "Olá Emanuela, tudo bem?  Por favor avançar com a candidata, e Ângelo por favor, assim que possível, dar seu de acordo.  Att.  De: Emanuela Weyne <emanuela.weyne@angolacables.co.ao> Enviada em:",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRxAAA=",
         "subject": "RE: Validação de Perfil – Analista Comercial (Dados BR)",
@@ -373,25 +373,74 @@
           "decision/question hint",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPiAAA=",
-        "subject": "Re: Telin RFQ#00002632 / 200G WACS",
-        "from": "artur.mendes@angolacables.com",
-        "to": "frederico.daniel@angolacables.co.ao",
-        "date": "2026-04-27T15:10:37+00:00",
-        "preview": "Boa tarde Fred,  OK, obrigado.  E o mínimo para apenas 12 meses que foi o que o cliente me pediu?  De: Frederico Daniel <frederico.daniel@angolacables.co.ao> Data: segunda-feira, 27 de abril de",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwX8bIiRd1ElcIqkaVdTFA=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "decision/question hint",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR4AAA=",
+        "subject": "RE: Angola Cables | BCS IPT",
+        "from": "elizandra.companhia@angolacables.com",
+        "to": "yonas@bcs-ea.com",
+        "date": "2026-04-30T13:50:55+00:00",
+        "preview": "Hi Yonas,  As we spoke, please consider the OF attached.  Regards, ________________________________ De: Elizandra Companhia <elizandra.companhia@angolacables.com> Enviado: 30 de abril de 2026 1",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAG6f1U3bDXNGo1ypmlhV1s4=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR2AAA=",
+        "subject": "Secure Your Stay – Africa 2026 GCCM (Sal, Cabo Verde)",
+        "from": "aleksandra@carriercommunity.com",
+        "to": "aleksandra@carriercommunity.com",
+        "date": "2026-04-30T13:30:53+00:00",
+        "preview": "Dear Delegates,  We are delighted to invite you to Africa 2026 GCCM, taking place on June 24–25, 2026, in Sal, Cabo Verde, and to offer you exclusive accommodation rates for your stay (available dat",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGI7nIvSFuhPsOjOgsBQqbE=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR0AAA=",
+        "subject": "RE: Proposta INFRASAT",
+        "from": "Camuano.Monteiro@infrasat.co.ao",
+        "to": "virgilio.alves@angolacables.com",
+        "date": "2026-04-30T13:30:00+00:00",
+        "preview": "Caro Virgílio, Boa tarde.  Grato pela vossa partilha da proposta e vamos analisar as condições técnicas para actualizarmos a nossa capacidade.  Obrigado.  @CM  De: Virgílio Alves <virgilio.al",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAEF7LxEc8NOqM5lP3okBLI=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRzAAA=",
+        "subject": "⏳ Sergio, this is it: 20% off ends tonight",
+        "from": "email@maestrolabs.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-04-30T13:22:00+00:00",
+        "preview": "20% off + smarter inbox tools. Gone at midnight.  Hi Sergio,  This is it.  In a few hours, April ends, and so does your 20% off MailMaestro Pro  At 11:59 PM ET tonight, the code expires. No ex",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB1K0rN4zEhKryRJGUwp9yA=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRyAAA=",
+        "subject": "FW: Proposta INFRASAT",
+        "from": "virgilio.alves@angolacables.com",
+        "to": "camuano.monteiro@infrasat.co.ao",
+        "date": "2026-04-30T13:08:29+00:00",
+        "preview": "Boa tarde Eng. Camuano,   Conforme falado em Maputo, segue em anexo a nossa proposta para upgrade da capacidade de IP Transito para a INFRASAT, de modos a corresponder com as vossas actuais necessi",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAEF7LxEc8NOqM5lP3okBLI=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRvAAA=",
         "subject": "Re: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
@@ -1288,71 +1337,6 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPhAAA=",
-        "subject": "🌱 (20% off) Reset your inbox before May hits",
-        "from": "email@maestrolabs.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-27T14:06:09+00:00",
-        "preview": "New month, new habits. Start with your inbox.  Hi Sergio,  Somewhere along the way, your inbox became… a lot.  Too many threads.  Too many things to reply to.  Too much time just figuring ou",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGIOB3GLET5No3Ij763vacQ=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPgAAA=",
-        "subject": "Proposta comercial_AngolaCables_Internet",
-        "from": "danilson.cabila@angolacables.com",
-        "to": "asoares@arg-brands.com",
-        "date": "2026-04-27T14:01:02+00:00",
-        "preview": "Saudações prezado @Anatoli Soares,   Em anexo encontre a nossa proposta comercial para o serviço solicitado.   Qualquer questão, disponha!",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADvLm5CzhUVCvYhycLzISOc=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPfAAA=",
-        "subject": "Comercial | Avaliação de Desempenho Individual 2026",
-        "from": "rui.faria@angolacables.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-27T14:00:53+00:00",
-        "preview": "Boa tarde Sergio,  Os objetivos a definir individualmente para a AVD 2026 para todos os colaboradores da área comercial (independente da vertical de negocio), deve ser proposta para  minha revisão p",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADFfRM9xDgpBgOn1agEP754=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPdAAA=",
-        "subject": "RE: Telin RFQ#00002632 / 200G WACS",
-        "from": "frederico.daniel@angolacables.co.ao",
-        "to": "artur.mendes@angolacables.com",
-        "date": "2026-04-27T13:49:23+00:00",
-        "preview": "@Artur Mendes, bom dia.  O melhor preço para cada 100G, é conforme mencionei anteriormente e o contrato mínimo é 3 anos.     * Capacidade: 100G   * NRC (Setup fee): USD 5 000,00   * Mensalid",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwX8bIiRd1ElcIqkaVdTFA=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPbAAA=",
-        "subject": "Re: Vendas por jurisdição",
-        "from": "rui.faria@angolacables.com",
-        "to": "vanusa.gomes@angolacables.com;sergio.pozuelo@angolacables.com",
-        "date": "2026-04-27T13:40:13+00:00",
-        "preview": "Vanusa,  As vendas internacionais deve ser vista pela perspetiva histórica e não pelas jurisdições que começou a ser aplicada há 1-2 anos atras.   De: Vanusa Gomes <vanusa.gomes@angolacables.com>",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
       }
     ]
   },
@@ -1370,7 +1354,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T13:12:02Z",
+    "fetched_at": "2026-04-30T14:12:03Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1462,19 +1446,9 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T13:12:54Z",
+    "fetched_at": "2026-04-30T14:12:50Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAHByWtOAAA=",
-        "subject": "Jurumani / Angola Cables - Twyn implementation follow up",
-        "start": "2026-04-30T13:00:00.0000000",
-        "end": "2026-04-30T14:00:00.0000000",
-        "location": "Microsoft Teams Meeting",
-        "organizer": "Quade van Rooyen",
-        "isOnline": true,
-        "showAs": "busy"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAInvD7BAAA=",
         "subject": "Relatorio Performance TCSA",
@@ -1562,6 +1536,16 @@
         "end": "2026-05-01T11:00:00.0000000",
         "location": "Sala de Directores",
         "organizer": "António da Cruz",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qcUlooAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAAMIH15AAAEA==",
+        "subject": "Reunião Semanal Service Delivery | Service Delivery Weekly Meeting",
+        "start": "2026-05-01T13:30:00.0000000",
+        "end": "2026-05-01T14:30:00.0000000",
+        "location": "Microsoft Teams Meeting",
+        "organizer": "Amanda Arruda",
         "isOnline": true,
         "showAs": "busy"
       }
