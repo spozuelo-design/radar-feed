@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T15:49:58.668625+00:00",
+  "generated_at": "2026-04-30T15:55:42.313667+00:00",
   "stats": {
     "total": 100,
     "urgent": 8,
@@ -1357,7 +1357,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T15:51:31Z",
+    "fetched_at": "2026-04-30T15:57:24Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1448,93 +1448,7 @@
     }
   },
   "calendar": {
-    "status": "ok",
-    "fetched_at": "2026-04-30T15:52:50Z",
-    "hours_ahead": 24,
-    "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAInvD7CAAA=",
-        "subject": "Africell - AMCSA - American Chamber of Commerce",
-        "start": "2026-04-30T15:00:00.0000000",
-        "end": "2026-04-30T16:00:00.0000000",
-        "location": "Africell Sede",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "busy"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAABE4nDUAAA=",
-        "subject": "Dia do Trabalhador",
-        "start": "2026-05-01T00:00:00.0000000",
-        "end": "2026-05-02T00:00:00.0000000",
-        "location": "África do Sul",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "free"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAABE4nGkAAA=",
-        "subject": "Dia do Trabalhador",
-        "start": "2026-05-01T00:00:00.0000000",
-        "end": "2026-05-02T00:00:00.0000000",
-        "location": "Angola",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "free"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAABE4oZ8AAA=",
-        "subject": "Dia do Trabalhador",
-        "start": "2026-05-01T00:00:00.0000000",
-        "end": "2026-05-02T00:00:00.0000000",
-        "location": "Brasil",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "free"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAABE4oiEAAA=",
-        "subject": "Dia do Trabalhador",
-        "start": "2026-05-01T00:00:00.0000000",
-        "end": "2026-05-02T00:00:00.0000000",
-        "location": "Nigéria",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "free"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAABE4onRAAA=",
-        "subject": "Dia do Trabalhador",
-        "start": "2026-05-01T00:00:00.0000000",
-        "end": "2026-05-02T00:00:00.0000000",
-        "location": "Portugal",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": false,
-        "showAs": "free"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAADpgxp_AAA=",
-        "subject": "Avaliação de Performance | DCM | Interinidade ",
-        "start": "2026-05-01T10:30:00.0000000",
-        "end": "2026-05-01T11:00:00.0000000",
-        "location": "Sala de Directores",
-        "organizer": "António da Cruz",
-        "isOnline": true,
-        "showAs": "busy"
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qcUlooAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAAMIH15AAAEA==",
-        "subject": "Reunião Semanal Service Delivery | Service Delivery Weekly Meeting",
-        "start": "2026-05-01T13:30:00.0000000",
-        "end": "2026-05-01T14:30:00.0000000",
-        "location": "Microsoft Teams Meeting",
-        "organizer": "Amanda Arruda",
-        "isOnline": true,
-        "showAs": "busy"
-      }
-    ],
-    "stats": {
-      "total": 8
-    }
+    "status": "error",
+    "error": "timeout"
   }
 }
