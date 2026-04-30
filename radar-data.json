@@ -1,12 +1,12 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T12:06:22.519890+00:00",
+  "generated_at": "2026-04-30T13:06:25.493895+00:00",
   "stats": {
     "total": 100,
-    "urgent": 8,
+    "urgent": 9,
     "decision": 15,
     "info": 74,
-    "noise_filtered": 3,
+    "noise_filtered": 2,
     "draft_candidates": 10,
     "engagement_check_active": false,
     "skipped_existing_draft": 0,
@@ -14,6 +14,21 @@
   },
   "lanes": {
     "urgent": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA=",
+        "subject": "Fortinet Recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for SASE Platforms",
+        "from": "info@global.fortinet.com",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-04-30T13:00:52+00:00",
+        "preview": "See Why Fortinet Is Recognized as a Leader among 11 Vendors  A SASE Platform that Delivers Today and Anticipates Tomorrow.  | View e-mail online  2025 Gartner® Magic Quadrant™ for SASE Platforms",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAPXRqG2J4zJFr0qijMPxkLk=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "urgent keyword"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRrAAA=",
         "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
@@ -142,6 +157,22 @@
       }
     ],
     "decision": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRxAAA=",
+        "subject": "RE: Validação de Perfil – Analista Comercial (Dados BR)",
+        "from": "emanuela.weyne@angolacables.co.ao",
+        "to": "angelo.gama@angolacables.com;teresa.vunge@angolacables.com",
+        "date": "2026-04-30T13:06:26+00:00",
+        "preview": "Olá, @Ângelo Gama, Espero que esteja bem. Poderia, por gentileza, autorizar o seguimento do processo para a vaga de Analista Comercial (Dados BR)? Fico à disposição para qualquer informação adicion",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRZAAA=",
         "subject": "RE: Huawei IPL opportunity",
@@ -358,24 +389,48 @@
           "decision/question hint",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPWAAA=",
-        "subject": "Meet Gilat at ATxSG 2026!",
-        "from": "events@gilat.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-27T11:22:08+00:00",
-        "preview": "No images? Click here    Meet us in Booth #4M1-1 to hear about Gilat's Leading Technologies and Solutions    *   Digital Inclusion: Enabling digital transformation to empower remote communities",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJ8uKtRGSPZLuFUaRsaWObc=",
-        "needs_draft": true,
-        "is_direct": true,
-        "reasons": [
-          "decision/question hint"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRvAAA=",
+        "subject": "Re: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
+        "from": "joao.bioco@angolacables.com",
+        "to": "julio.chilela@angolacables.com;virgilio.alves@angolacables.com;samuel.carvalho@angolacables.co.ao;dorcas.maria@angolacables.com",
+        "date": "2026-04-30T12:27:51+00:00",
+        "preview": "Bom dia Júlio,  Tomei nota. Vou verificar a agenda dos intervenientes e marcar uma reunião para a próxima semana.  Cumprimentos. ________________________________ De: Julio Chilela <julio.chilela",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRuAAA=",
+        "subject": "Validação de Perfil – Analista Comercial (Dados BR)",
+        "from": "emanuela.weyne@angolacables.co.ao",
+        "to": "teresa.vunge@angolacables.com",
+        "date": "2026-04-30T12:22:05+00:00",
+        "preview": "Olá, Teresa, Segue resumo da candidata para validação: Eveline Franco da Silva Profissional com 4 anos de experiência em planejamento operacional e comercial (B2C e B2B), com forte atuação em análi",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRtAAA=",
+        "subject": "[eTIF] New Cross Connection form submitted by client",
+        "from": "etif@angolacables.co.ao",
+        "to": "com@angolacables.co.ao",
+        "date": "2026-04-30T12:19:27+00:00",
+        "preview": "A new Cross Connection form has been submitted by the client.  Details:   Commercial Name: Mais Internet   Order Form: 260429113328   Product/Service: Cross Connection   Created by: antony.frota",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANM5bU6vGDBPicICuj5J33M=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRsAAA=",
         "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
@@ -1298,49 +1353,11 @@
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPZAAA=",
-        "subject": "RE: Pedidos Gerais GJ | General Requests LD: 1010_Amancio Pedro_2026-04-16T14:43:32Z",
-        "from": "customer-care@angolacables.co.ao",
-        "to": "customer-care@angolacables.co.ao;ilidio.janota@angolacables.com;gabinete.juridico@angolacables.co.ao",
-        "date": "2026-04-27T13:26:02+00:00",
-        "preview": "Boas Ilídio,  Segue o documento em anexo, tal como solicitado.  Obrigado   ________________________________ De: Customer Care <customer-care@angolacables.co.ao> Enviado: 23 de abril de 2026 1",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANTNehg0Al9IpfHsdqIRDQI=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPYAAA=",
-        "subject": "Webinar: How generative, agentic and sovereign AI are reshaping telco growth in MENA",
-        "from": "tilly.gilbert@stlpartners.com",
-        "to": "sergio.pozuelo@angolacables.co.ao",
-        "date": "2026-04-27T12:44:50+00:00",
-        "preview": "Hello Sergio,  I hope you're keeping well!  I am pleased to invite you to our upcoming webinar on “​​How generative, agentic and sovereign AI are reshaping telco growth in MENA”.  This will be a",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKEDHZZcVq9OoANoauoVujU=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPXAAA=",
-        "subject": "RE: Vendas por jurisdição",
-        "from": "vanusa.gomes@angolacables.com",
-        "to": "sergio.pozuelo@angolacables.com;rui.faria@angolacables.com",
-        "date": "2026-04-27T11:28:24+00:00",
-        "preview": "ADM Rui,  Não participei e recebi nada de estratégia vindo dessas reuniões.  A preocupação está nas vendas internacionais de cada uma das jurisdições, melhor dizendo, contratos com entidades não r",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
       }
     ]
   },
   "draft_candidates": [
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRjAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRRAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQxAAA=",
@@ -1349,12 +1366,11 @@
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQEAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP_AAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP7AAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP2AAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPWAAA="
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP2AAA="
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T12:12:09Z",
+    "fetched_at": "2026-04-30T13:12:02Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1446,7 +1462,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T12:12:58Z",
+    "fetched_at": "2026-04-30T13:12:54Z",
     "hours_ahead": 24,
     "events": [
       {
