@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T11:06:22.521345+00:00",
+  "generated_at": "2026-04-30T12:06:22.519890+00:00",
   "stats": {
     "total": 100,
     "urgent": 8,
@@ -14,6 +14,22 @@
   },
   "lanes": {
     "urgent": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRrAAA=",
+        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
+        "from": "vitor.pinho@angolacables.com",
+        "to": "thabo.ntlatsang@telcables.co.za;ivanio.costa@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
+        "date": "2026-04-30T11:27:13+00:00",
+        "preview": "@Ivânio da Costa please give to Thabo an update ASAP.  Sent from Outlook for iOS ________________________________ From: Vitor Pinho <vitor.pinho@angolacables.com> Sent: Thursday, 30 April 2026 12",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "urgent keyword",
+          "CC-only — no auto-draft"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRjAAA=",
         "subject": "Revenue drop | Urgent update and action plan",
@@ -117,22 +133,6 @@
         "preview": "Dear Ariete,  Thanks and please find the order counter-signed.  The AFR-IX service delivery will get back to you asap.  Best regards, Dylan  From: Ariete Pereira <ariete.pereira@angolacables.",
         "isRead": false,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOO7VU9ukdhNnpexWjHIrfM=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "urgent keyword",
-          "CC-only — no auto-draft"
-        ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPTAAA=",
-        "subject": "Re: URGENT: Service Instability & Churn Risk - TCNG Customers",
-        "from": "babatunde.adeoye@telcables.ng",
-        "to": "arlindo.alves@angolacables.co.ao;israel.ogboi@telcables.ng;osvaldo.joaquim@angolacables.co.ao;gomes.cochi@angolacables.com;luis.waleca@angolacables.com",
-        "date": "2026-04-27T10:25:31+00:00",
-        "preview": "Dear Arlindo, Good morning. I am currently finalizing a deal that requires a commitment to our protected Lagos Metro ring. Could you please confirm if we are still on track for the early June comple",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALseTsUauTNPmFdtZGh0s9Q=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -376,6 +376,32 @@
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRsAAA=",
+        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
+        "from": "thabo.ntlatsang@telcables.co.za",
+        "to": "vitor.pinho@angolacables.com;ivanio.costa@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
+        "date": "2026-04-30T11:39:17+00:00",
+        "preview": "Dear Vito, Thank you for your feedback, and I acknowledge the context regarding the banking requirements and the delays experienced. My intention was not to attribute responsibility, but rather to h",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRqAAA=",
+        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
+        "from": "vitor.pinho@angolacables.com",
+        "to": "thabo.ntlatsang@telcables.co.za;ivanio.costa@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
+        "date": "2026-04-30T11:26:40+00:00",
+        "preview": "Dear Thabo,  You have been involved in this process from the outset and are aware that the main issue did not lie with the Procurement Office, but rather with the banking requirements that had to be",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRoAAA=",
         "subject": "RE: Post Linkedin AICEP",
@@ -1311,32 +1337,6 @@
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPVAAA=",
-        "subject": "Re: Vendas por jurisdição",
-        "from": "rui.faria@angolacables.com",
-        "to": "sergio.pozuelo@angolacables.com;vanusa.gomes@angolacables.com",
-        "date": "2026-04-27T11:18:23+00:00",
-        "preview": "Sergio,  Mas esta na altura das Operações de Venda terem este tipo de documento que obriga a ser atualizado anualmente.   De: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Data: segunda-feira",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJev0aDhCdhIjIPFRHpNfX4=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPSAAA=",
-        "subject": "RE: Solicitação de Cancelamento e Desativação de Circuitos",
-        "from": "customer-care@angolacables.co.ao",
-        "to": "customer-care@angolacables.co.ao;albino.contreiras@startel.ao;mauro.bartolomeu@angolacables.com",
-        "date": "2026-04-27T10:23:02+00:00",
-        "preview": "PÓS-VENDA CUSTOMER CARE   Bom dia, Parceiro,  Esperamos que este e-mail o encontre bem.  Na sequência da vossa comunicação relativa ao pedido de rescisão dos serviços associados às Order Forms",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB24mdrXnXlBp0CV7YDY2Eo=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
       }
     ]
   },
@@ -1354,7 +1354,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T11:12:33Z",
+    "fetched_at": "2026-04-30T12:12:09Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1446,19 +1446,9 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T11:12:52Z",
+    "fetched_at": "2026-04-30T12:12:58Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAIekLctAAA=",
-        "subject": "TMCEL | Angola Cables Meeting ",
-        "start": "2026-04-30T11:00:00.0000000",
-        "end": "2026-04-30T12:00:00.0000000",
-        "location": "",
-        "organizer": "Elizandra Companhia",
-        "isOnline": false,
-        "showAs": "tentative"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAHByWtOAAA=",
         "subject": "Jurumani / Angola Cables - Twyn implementation follow up",
@@ -1561,7 +1551,7 @@
       }
     ],
     "stats": {
-      "total": 11
+      "total": 10
     }
   }
 }
