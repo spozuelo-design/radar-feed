@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T16:07:35.498341+00:00",
+  "generated_at": "2026-04-30T16:13:52.995175+00:00",
   "stats": {
     "total": 100,
     "urgent": 8,
-    "decision": 16,
-    "info": 73,
+    "decision": 15,
+    "info": 74,
     "noise_filtered": 3,
     "draft_candidates": 1,
     "engagement_check_active": true,
-    "skipped_existing_draft": 8,
+    "skipped_existing_draft": 7,
     "skipped_already_replied": 1
   },
   "lanes": {
@@ -382,25 +382,22 @@
           "decision/question hint",
           "draft already exists in Rascunhos"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP2AAA=",
-        "subject": "We're building the Angola Deal Book - is your opportunity in it?",
-        "from": "deals@africaninvestments.co",
-        "to": "sergio.pozuelo@angolacables.co.ao",
-        "date": "2026-04-28T06:50:41+00:00",
-        "preview": "Dear Sergio We are reaching out because we believe you may know of a business in Angola that is looking to raise capital, and we would like to help. The African Investments Dashboard is Africa's lea",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOCIDdcuo6FJu03JJZbPaDg=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": [
-          "decision/question hint",
-          "draft already exists in Rascunhos"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlSFAAA=",
+        "subject": "RE: Solicitação de Revisão Salarial",
+        "from": "teresa.vunge@angolacables.com",
+        "to": "rui.faria@angolacables.com;sergio.pozuelo@angolacables.com",
+        "date": "2026-04-30T16:11:21+00:00",
+        "preview": "O valor é igual para todos. A diferença consiste nas ausências efectuadas a nível de descontos.  De: Rui Faria <rui.faria@angolacables.com> Enviada: quinta-feira, 30 de abril de 2026 16:39 Para: T",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGLPaQizmYNPgkMZm19AO80=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlSDAAA=",
         "subject": "Re: Solicitação de Revisão Salarial",
@@ -1357,7 +1354,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T16:08:47Z",
+    "fetched_at": "2026-04-30T16:15:30Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1449,7 +1446,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T16:09:00Z",
+    "fetched_at": "2026-04-30T16:15:46Z",
     "hours_ahead": 24,
     "events": [
       {
