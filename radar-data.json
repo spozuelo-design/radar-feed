@@ -1,19 +1,35 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T14:06:22.378471+00:00",
+  "generated_at": "2026-04-30T14:26:07.643345+00:00",
   "stats": {
     "total": 100,
     "urgent": 8,
     "decision": 15,
     "info": 74,
     "noise_filtered": 3,
-    "draft_candidates": 10,
-    "engagement_check_active": false,
-    "skipped_existing_draft": 0,
+    "draft_candidates": 1,
+    "engagement_check_active": true,
+    "skipped_existing_draft": 9,
     "skipped_already_replied": 0
   },
   "lanes": {
     "urgent": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR6AAA=",
+        "subject": "RE: URGENT: Service Instability & Churn Risk - TCNG Customers",
+        "from": "israel.ogboi@telcables.ng",
+        "to": "arlindo.alves@angolacables.co.ao;osvaldo.joaquim@angolacables.co.ao;gomes.cochi@angolacables.com;luis.waleca@angolacables.com",
+        "date": "2026-04-30T14:14:38+00:00",
+        "preview": "Dear @Arlindo,  Trust this mail meets you well,  Following a call with AFRIX last night regarding the 100G Ethernet referenced in the previous email, they raised significant concerns based on thei",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALseTsUauTNPmFdtZGh0s9Q=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "urgent keyword",
+          "CC-only — no auto-draft"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA=",
         "subject": "Fortinet Recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for SASE Platforms",
@@ -54,10 +70,11 @@
         "preview": "Dear All,  We’re seeing a deep revenue drop since the beginning of this year, nothing compared with last year (our worst performance in years).  As we’re about to enter middle of Q2, please submit",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwjlOolbEBElE2g8MLieWw=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "urgent keyword"
+          "urgent keyword",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -85,10 +102,11 @@
         "preview": "No images? Click here    April 29, 2026  Gilat Awarded over $7 Million for its New EnduroStream Solution to Support the U.S. Department of War  Gilat Satellite Networks announced today that G",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMBpQHwCqFxKkrFeSehEWm4=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "urgent keyword"
+          "urgent keyword",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -116,22 +134,6 @@
         "preview": "Olá, @Bruna Rodrigues, Bom dia!      Favor enviar a solicitação de desativação IMEDIATA do serviço de IP Transit 1Gbps-DC Equinix RJ2 do cliente Corelink conforme De Acordo do nosso CEO @Rafael Loz",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAHVR1gzuAitIgm5yQm70aVk=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "urgent keyword",
-          "CC-only — no auto-draft"
-        ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPkAAA=",
-        "subject": "Re: PID-0003DEA3-2/ 500M",
-        "from": "artur.mendes@angolacables.com",
-        "to": "frederico.daniel@angolacables.co.ao",
-        "date": "2026-04-27T15:27:44+00:00",
-        "preview": "Boa tarde Fred,  Tenho a Hilda a enviar-me emails todos os dias e preciso da tua ajuda para enviar hoje sem falta.  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: sexta-feira,",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADaQxa_eskKvnDQU_NMnOe8=",
         "needs_draft": false,
         "is_direct": false,
         "reasons": [
@@ -214,10 +216,11 @@
         "preview": "Que opinam @Sergio Pozuelo e @Diego Nunes?",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -261,10 +264,11 @@
         "preview": "Bom dia Sergio,  O que se passa aqui?  Todos os melhores vendedores (ras) estão a exigir mais condições ou então vão se embora. Acho que falta trabalho de retenção adequado.  Desde o ano passado",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGLPaQizmYNPgkMZm19AO80=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -276,10 +280,11 @@
         "preview": "Join us tomorrow for Data Centre Day, Registrations are open *|MC_PREVIEW_TEXT|* ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMauFdCgqL9MmRnqXchI6_A=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -307,10 +312,11 @@
         "preview": "Caro Sergio  Ja passou passou algum tempo. Ja temos update disto? Temos urgência em fechar o assunto  Cumprimentos  Mobin Habib  From: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Date: M",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAM2ac76PDUtCl6E2l5Y46qw=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -322,10 +328,11 @@
         "preview": "Good morning Kelveny, I haven’t received any feedback from the Sales team yet. @Thabo Ntlatsang @Sudhir Juggernath, could you please share the latest update on this request?   ___________________",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAH2IYPub55xGuqQqT6cPzn8=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -337,10 +344,11 @@
         "preview": "Hi @Patience  From our end, can we consider these services canceled?  ________________________________ De: Patience Tigere <patience.tigere@telcables.co.za> Enviada: Sexta-feira, 17 de Abril de",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAH2IYPub55xGuqQqT6cPzn8=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -352,10 +360,11 @@
         "preview": "Dear Sergio We are reaching out because we believe you may know of a business in Angola that is looking to raise capital, and we would like to help. The African Investments Dashboard is Africa's lea",
         "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOCIDdcuo6FJu03JJZbPaDg=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -376,6 +385,45 @@
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR8AAA=",
+        "subject": "RE: Re:Seguimento da Reunião – CCC & Datacenter | Energia, Fibra e Água - Meeting Follow-Up – CCC & Datacenter | Power, Fibre and Water",
+        "from": "gaspar.paulo@angolacables.com",
+        "to": "mobin.habib@epcabral.com;osvaldo.joaquim@angolacables.co.ao;duozhaodong@caiec-om.com;luis.waleca@angolacables.com",
+        "date": "2026-04-30T14:23:05+00:00",
+        "preview": "Prezados,  Seguem os dados solicitados:  Definição dos pontos de ligação  • Ponto A: Data Center (DC) – Rack: a indicar pela EP-Cabral • Ponto B: Sala Técnica DCR5 (CIP-Internacional) – Rack: a",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAF6s-R7qPdpCrobT5SB5fsg=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR7AAA=",
+        "subject": "RE: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
+        "from": "customer-care@angolacables.co.ao",
+        "to": "customer-care@angolacables.co.ao;cf@dontstop-play.com",
+        "date": "2026-04-30T14:16:25+00:00",
+        "preview": "Prezado Cliente, Boa tarde. Informamos que, relativamente à facturação, estamos de acordo e procederemos em conformidade, efectuando a cobrança dos 90 dias e dando seguimento ao cancelamento do serv",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR5AAA=",
+        "subject": "RE: Emtel Durban Teraco Upgrade to 10G",
+        "from": "ivanio.costa@angolacables.com",
+        "to": "thabo.ntlatsang@telcables.co.za;vitor.pinho@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
+        "date": "2026-04-30T14:13:12+00:00",
+        "preview": "Hi @Thabo Ntlatsang  I hope this message finds you well.  I am writing to provide you with an update regarding the delivery process to the data centre.  A ticket was duly raised with our technic",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlR4AAA=",
         "subject": "RE: Angola Cables | BCS IPT",
@@ -1298,63 +1346,15 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPnAAA=",
-        "subject": "RE: Telin RFQ#00002632 / 200G WACS",
-        "from": "frederico.daniel@angolacables.co.ao",
-        "to": "artur.mendes@angolacables.com",
-        "date": "2026-04-27T15:40:39+00:00",
-        "preview": "Artur, boa tarde.  Segue o mínimo para cada 100G no contrato de 12 Meses.     * Capacidade: 100G   * NRC (Setup fee): USD 5 000,00   * Mensalidade: USD 15 500,00   * Contrato: 12 Meses.",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANwX8bIiRd1ElcIqkaVdTFA=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPmAAA=",
-        "subject": "RE: PID-0003DEA3-2/ 500M",
-        "from": "frederico.daniel@angolacables.co.ao",
-        "to": "artur.mendes@angolacables.com",
-        "date": "2026-04-27T15:38:02+00:00",
-        "preview": "@Artur Mendes,  Segue.  100Mbps Service A-End B-End Bandwidth (Mbps) Term (months) NRC (Setup Fee) MRC (Monthly) Total Contract Value EPLC-L2VPN Teraco Johannesburg, JB1 DC Paratus Luan",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADaQxa_eskKvnDQU_NMnOe8=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPlAAA=",
-        "subject": "RE: Service Activation LOC8 PTY LTD- OF 3300713-IP Transit 1Gb ",
-        "from": "kelveny.ramos@angolacables.com",
-        "to": "mahendran.naidu@telcables.co.za;Jacqueline.Kitching@telcables.co.za;customer-care@angolacables.co.ao;service.delivery@angolacables.co.ao;amanda.arruda@angolacables.co.ao",
-        "date": "2026-04-27T15:35:03+00:00",
-        "preview": "Hi @Mahen and @Jacqueline, good day  Please note that the status of this service has been changed from “On Hold” to “Pending” so that we can better track this issue.  Could you please let us know",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAIQcwlmnKO9Ii8ZuPPYPEZ4=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
       }
     ]
   },
   "draft_candidates": [
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRjAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRRAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQxAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQfAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQcAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQEAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP_AAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP7AAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlP2AAA="
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA="
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T14:12:03Z",
+    "fetched_at": "2026-04-30T14:27:47Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1446,7 +1446,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T14:12:50Z",
+    "fetched_at": "2026-04-30T14:28:19Z",
     "hours_ahead": 24,
     "events": [
       {
