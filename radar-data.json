@@ -1,16 +1,45 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T08:58:04.632619+00:00",
+  "generated_at": "2026-04-30T09:58:04.556641+00:00",
   "stats": {
-    "total": 97,
-    "urgent": 6,
+    "total": 100,
+    "urgent": 8,
     "decision": 16,
-    "info": 72,
+    "info": 73,
     "noise_filtered": 3,
-    "draft_candidates": 9
+    "draft_candidates": 10
   },
   "lanes": {
     "urgent": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRjAAA=",
+        "subject": "Revenue drop | Urgent update and action plan",
+        "from": "rui.faria@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com;rafael.lozano@telcables.com.br;sudhir.juggernath@telcables.co.za",
+        "date": "2026-04-30T09:38:51+00:00",
+        "preview": "Dear All,  We’re seeing a deep revenue drop since the beginning of this year, nothing compared with last year (our worst performance in years).  As we’re about to enter middle of Q2, please submit",
+        "isRead": false,
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "urgent keyword"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRiAAA=",
+        "subject": "RE: RFS (Ready For Service - PERMANENT CIRCUIT) - SERVICE ACTIVATION - 2x IPLC - DWDM 1 Lambda - 10 Gbps_LDA to JHB & LDA to FOR || WorldVu_OneWeb_OF 3327951 & OF 3327952",
+        "from": "maria.cuzambila@angolacables.com",
+        "to": "olu.sowunmi@eutelsat.com;babatunde.omogbai@eutelsat.com;luke.grcich@eutelsat.com;amit.salunke@angolacables.com;gary.mcintosh@eutelsat.com;amanda.arruda@angolacables.co.ao;armin.sepehri@eutelsat.com",
+        "date": "2026-04-30T09:34:06+00:00",
+        "preview": "Dear @Olu Sowunmi,   Find the test results and please note the following:      1. Today Apr 28 is the handover date and should be the RFS date. You did NOT inform that the circuit was ready an",
+        "isRead": false,
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "urgent keyword",
+          "CC-only — no auto-draft"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQxAAA=",
         "subject": "Gilat Awarded over $7 Million for its New EnduroStream Solution to Support the U.S. Department of War",
@@ -139,7 +168,7 @@
         "to": "vanessa.camurca@telcables.com.br;sergio.pozuelo@angolacables.com;diego.nunes@telcables.com.br",
         "date": "2026-04-30T02:13:31+00:00",
         "preview": "Que opinam @Sergio Pozuelo e @Diego Nunes?",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": true,
         "is_direct": true,
         "reasons": [
@@ -337,6 +366,30 @@
     ],
     "info": [
       {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRkAAA=",
+        "subject": "Re: [Angola Cables] Request for Angola - Nigeria MPLS VPN - Huatong Cables",
+        "from": "artur.mendes@angolacables.com",
+        "to": "frederico.daniel@angolacables.co.ao",
+        "date": "2026-04-30T09:43:06+00:00",
+        "preview": "Fred,  Tenho o cliente a perguntar de novo pelo preço.  Envia-me por favor.  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: quarta-feira, 22 de abril de 2026 às 11:05 Para:",
+        "isRead": false,
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRhAAA=",
+        "subject": "Re: Thabo's Travel Itinerary Q2",
+        "from": "sudhir.juggernath@telcables.co.za",
+        "to": "sergio.pozuelo@angolacables.com;alisha.badassy@telcables.co.za",
+        "date": "2026-04-30T09:00:27+00:00",
+        "preview": "hi Sergio  I hope that all is well  I agree and disagree with you  Dubai is always on a different level and very overwhelming, this part I agree with you.  I disagree on the part of customer s",
+        "isRead": true,
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRgAAA=",
         "subject": "Re: Payment Acknowledgment & Update on Service Credit Request",
         "from": "richard.ugah@telcables.ng",
@@ -415,7 +468,7 @@
         "to": "antonio.francisco@angolacables.co.ao",
         "date": "2026-04-30T08:37:10+00:00",
         "preview": "Antonio ,  Bom dia !  Pensei que este assunto ja tivesse sido fechado   ________________________________ De: Josefina Francisco <josefina.francisco@angolacables.com> Enviadas: Quarta-feira, 2",
-        "isRead": false,
+        "isRead": true,
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
@@ -1187,22 +1240,11 @@
         "needs_draft": false,
         "is_direct": true,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlPFAAA=",
-        "subject": "Unlock Your Brand’s Potential at Capacity Europe 2026",
-        "from": "marketing@comms.capacityglobal.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-27T08:32:07+00:00",
-        "preview": "Meet 4000+ attendees  ENQUIRE ABOUT SPONSORSHIP FOR CAPACITY EUROPE 2026  Hello Sergio,  ​  If you want guaranteed face time with the people who matter, and to turn conversations into real dea",
-        "isRead": false,
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
       }
     ]
   },
   "draft_candidates": [
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRjAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRRAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQxAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQfAAA=",
@@ -1215,7 +1257,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-04-30T08:58:46Z",
+    "fetched_at": "2026-04-30T09:59:24Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1307,19 +1349,9 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-04-30T08:59:21Z",
+    "fetched_at": "2026-04-30T10:00:41Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAIekLcsAAA=",
-        "subject": "Cilix | Angola Cables Meeting ",
-        "start": "2026-04-30T09:00:00.0000000",
-        "end": "2026-04-30T10:00:00.0000000",
-        "location": "",
-        "organizer": "Elizandra Companhia",
-        "isOnline": false,
-        "showAs": "tentative"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAIekLcvAAA=",
         "subject": "TV Cabo MOZ | Angola Cables Meeting ",
@@ -1412,7 +1444,7 @@
       }
     ],
     "stats": {
-      "total": 10
+      "total": 9
     }
   }
 }
