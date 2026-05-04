@@ -1,11 +1,11 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-04T11:26:19.107722+00:00",
+  "generated_at": "2026-05-04T12:26:19.029939+00:00",
   "stats": {
-    "total": 63,
-    "urgent": 4,
-    "decision": 10,
-    "info": 47,
+    "total": 61,
+    "urgent": 3,
+    "decision": 11,
+    "info": 45,
     "noise_filtered": 2,
     "draft_candidates": 2,
     "engagement_check_active": true,
@@ -60,25 +60,25 @@
         "reasons": [
           "urgent keyword"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRrAAA=",
-        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
-        "from": "vitor.pinho@angolacables.com",
-        "to": "thabo.ntlatsang@telcables.co.za;ivanio.costa@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
-        "date": "2026-04-30T11:27:13+00:00",
-        "preview": "@Ivânio da Costa please give to Thabo an update ASAP.  Sent from Outlook for iOS ________________________________ From: Vitor Pinho <vitor.pinho@angolacables.com> Sent: Thursday, 30 April 2026 12",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "urgent keyword",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "decision": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABUAAA=",
+        "subject": "Re: Order Confirmation and Next Steps - Netcom Africa",
+        "from": "c.iwuoha@netcomafrica.com",
+        "to": "babatunde.adeoye@telcables.ng",
+        "date": "2026-05-04T12:15:37+00:00",
+        "preview": "Hi @Babatunde,  Please confirm the status of this MSA.   Kind Regards,  Chidimma Iwuoha | Senior Procurement Officer | Supply Chain  |  Netcom Africa Limited  1 Adeola Odeku Street  |  6F SAP",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAD98gm7dEGJKtX8-DwmuRAA=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABPAAA=",
         "subject": "Re: CCT Global 2026",
@@ -101,7 +101,7 @@
         "to": "edvaldo.gomes@angolacables.com;sergio.pozuelo@angolacables.co.ao",
         "date": "2026-05-04T09:29:31+00:00",
         "preview": "Hi @Edvaldo Gomes,  I'd like to please follow up on the Teams access issues. Did you manage to find resolve anything on your side as per our meeting?  Multiple users still do not have the ability",
-        "isRead": false,
+        "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAD9ebsQVzA5Dg762NMxQY6Y=",
         "needs_draft": false,
         "is_direct": true,
@@ -213,7 +213,7 @@
         "to": "emanuela.weyne@angolacables.co.ao;angelo.gama@angolacables.com;teresa.vunge@angolacables.com",
         "date": "2026-04-30T13:30:28+00:00",
         "preview": "Olá Emanuela, tudo bem?  Por favor avançar com a candidata, e Ângelo por favor, assim que possível, dar seu de acordo.  Att.  De: Emanuela Weyne <emanuela.weyne@angolacables.co.ao> Enviada em:",
-        "isRead": false,
+        "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
         "needs_draft": false,
         "is_direct": false,
@@ -229,7 +229,7 @@
         "to": "angelo.gama@angolacables.com;teresa.vunge@angolacables.com",
         "date": "2026-04-30T13:06:26+00:00",
         "preview": "Olá, @Ângelo Gama, Espero que esteja bem. Poderia, por gentileza, autorizar o seguimento do processo para a vaga de Analista Comercial (Dados BR)? Fico à disposição para qualquer informação adicion",
-        "isRead": false,
+        "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
         "needs_draft": false,
         "is_direct": false,
@@ -240,6 +240,32 @@
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABTAAA=",
+        "subject": "RE: Validação de Perfil – Analista Comercial (Dados BR)",
+        "from": "emanuela.weyne@angolacables.co.ao",
+        "to": "angelo.gama@angolacables.com;rafael.lozano@telcables.com.br;teresa.vunge@angolacables.com",
+        "date": "2026-05-04T11:51:57+00:00",
+        "preview": "Bom dia, Agradeço a todos. Uma excelente semana.  ________________________________ De: Ângelo Gama <angelo.gama@angolacables.com> Enviado: segunda-feira, 4 de maio de 2026 06:39 Para: Rafael Lo",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABSAAA=",
+        "subject": "RE: RFS (Ready For Service - PERMANENT CIRCUIT) - SERVICE ACTIVATION - 2x IPLC - DWDM 1 Lambda - 10 Gbps_LDA to JHB & LDA to FOR || WorldVu_OneWeb_OF 3327951 & OF 3327952",
+        "from": "olu.sowunmi@eutelsat.com",
+        "to": "maria.cuzambila@angolacables.com;babatunde.omogbai@eutelsat.com;luke.grcich@eutelsat.com;amit.salunke@angolacables.com;gary.mcintosh@eutelsat.com;amanda.arruda@angolacables.co.ao;armin.sepehri@eutelsat.com",
+        "date": "2026-05-04T11:50:46+00:00",
+        "preview": "Hello Maria,  Yes, it works.  Meeting has been changed to 4pm Luanda (11am US Eastern).  Olu Sowunmi. Senior Network Deployment Manager Backbone Engineering | Core Network olu.sowunmi@eutelsa",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAA7H3cEIDGdLpKXMStmZR9k=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABRAAA=",
         "subject": "RE: BCS | L2 - ANGONAP - TERACO",
@@ -312,7 +338,7 @@
         "to": "rafael.lozano@telcables.com.br;emanuela.weyne@angolacables.co.ao;teresa.vunge@angolacables.com",
         "date": "2026-05-04T09:39:49+00:00",
         "preview": "Bom dia Rafael  Podemos avançar com a contractação  Cpts Angelo ________________________________ De: Rafael Lozano <rafael.lozano@telcables.com.br> Enviado: 30 de abril de 2026 14:30 Para: Em",
-        "isRead": false,
+        "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
         "needs_draft": false,
         "is_direct": false,
@@ -798,58 +824,6 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRuAAA=",
-        "subject": "Validação de Perfil – Analista Comercial (Dados BR)",
-        "from": "emanuela.weyne@angolacables.co.ao",
-        "to": "teresa.vunge@angolacables.com",
-        "date": "2026-04-30T12:22:05+00:00",
-        "preview": "Olá, Teresa, Segue resumo da candidata para validação: Eveline Franco da Silva Profissional com 4 anos de experiência em planejamento operacional e comercial (B2C e B2B), com forte atuação em análi",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRtAAA=",
-        "subject": "[eTIF] New Cross Connection form submitted by client",
-        "from": "etif@angolacables.co.ao",
-        "to": "com@angolacables.co.ao",
-        "date": "2026-04-30T12:19:27+00:00",
-        "preview": "A new Cross Connection form has been submitted by the client.  Details:   Commercial Name: Mais Internet   Order Form: 260429113328   Product/Service: Cross Connection   Created by: antony.frota",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANM5bU6vGDBPicICuj5J33M=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRsAAA=",
-        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
-        "from": "thabo.ntlatsang@telcables.co.za",
-        "to": "vitor.pinho@angolacables.com;ivanio.costa@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
-        "date": "2026-04-30T11:39:17+00:00",
-        "preview": "Dear Vito, Thank you for your feedback, and I acknowledge the context regarding the banking requirements and the delays experienced. My intention was not to attribute responsibility, but rather to h",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRqAAA=",
-        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
-        "from": "vitor.pinho@angolacables.com",
-        "to": "thabo.ntlatsang@telcables.co.za;ivanio.costa@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
-        "date": "2026-04-30T11:26:40+00:00",
-        "preview": "Dear Thabo,  You have been involved in this process from the outset and are aware that the main issue did not lie with the Procurement Office, but rather with the banking requirements that had to be",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
       }
     ]
   },
@@ -859,7 +833,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-05-04T11:27:36Z",
+    "fetched_at": "2026-05-04T12:28:11Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -951,7 +925,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-05-04T11:28:10Z",
+    "fetched_at": "2026-05-04T12:28:42Z",
     "hours_ahead": 24,
     "events": [
       {
