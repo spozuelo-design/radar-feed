@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-04T12:26:19.029939+00:00",
+  "generated_at": "2026-05-04T13:26:19.083811+00:00",
   "stats": {
-    "total": 61,
-    "urgent": 3,
-    "decision": 11,
-    "info": 45,
-    "noise_filtered": 2,
-    "draft_candidates": 2,
+    "total": 58,
+    "urgent": 2,
+    "decision": 10,
+    "info": 43,
+    "noise_filtered": 3,
+    "draft_candidates": 0,
     "engagement_check_active": true,
-    "skipped_existing_draft": 1,
+    "skipped_existing_draft": 2,
     "skipped_already_replied": 1
   },
   "lanes": {
@@ -45,21 +45,6 @@
           "urgent keyword",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA=",
-        "subject": "Fortinet Recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for SASE Platforms",
-        "from": "info@global.fortinet.com",
-        "to": "sergio.pozuelo@angolacables.co.ao",
-        "date": "2026-04-30T13:00:52+00:00",
-        "preview": "See Why Fortinet Is Recognized as a Leader among 11 Vendors  A SASE Platform that Delivers Today and Anticipates Tomorrow.  | View e-mail online  2025 Gartner® Magic Quadrant™ for SASE Platforms",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAPXRqG2J4zJFr0qijMPxkLk=",
-        "needs_draft": true,
-        "is_direct": true,
-        "reasons": [
-          "urgent keyword"
-        ]
       }
     ],
     "decision": [
@@ -86,12 +71,13 @@
         "to": "sergio.pozuelo@angolacables.com",
         "date": "2026-05-04T10:35:35+00:00",
         "preview": "Bom dia Sérgio,  Já aprovaste?  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: quinta-feira, 16 de abril de 2026 às 18:28 Para: Sergio Pozuelo <sergio.pozuelo@angolacables.co",
-        "isRead": false,
+        "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJ5YipT5TlxLp8msJ-46tlU=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -221,25 +207,22 @@
           "decision/question hint",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRxAAA=",
-        "subject": "RE: Validação de Perfil – Analista Comercial (Dados BR)",
-        "from": "emanuela.weyne@angolacables.co.ao",
-        "to": "angelo.gama@angolacables.com;teresa.vunge@angolacables.com",
-        "date": "2026-04-30T13:06:26+00:00",
-        "preview": "Olá, @Ângelo Gama, Espero que esteja bem. Poderia, por gentileza, autorizar o seguimento do processo para a vaga de Analista Comercial (Dados BR)? Fico à disposição para qualquer informação adicion",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANx5WenA1rVPpMjbKRWUO-E=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "decision/question hint",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABWAAA=",
+        "subject": "FW: Connection Request",
+        "from": "laura.carneiro@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-04T13:24:14+00:00",
+        "preview": "Boa tarde, Sérgio  Segue informação para o vosso conhecimento.  Atenciosamente, De: Shyna Meher <shyna@telcopedia.com> Data: sexta-feira, 1 de maio de 2026 às 15:30 Para: Liliana Andersson <lil",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOXaBw7OhpxPukTt_HCZZM0=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABTAAA=",
         "subject": "RE: Validação de Perfil – Analista Comercial (Dados BR)",
@@ -785,55 +768,13 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRzAAA=",
-        "subject": "⏳ Sergio, this is it: 20% off ends tonight",
-        "from": "email@maestrolabs.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-30T13:22:00+00:00",
-        "preview": "20% off + smarter inbox tools. Gone at midnight.  Hi Sergio,  This is it.  In a few hours, April ends, and so does your 20% off MailMaestro Pro  At 11:59 PM ET tonight, the code expires. No ex",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB1K0rN4zEhKryRJGUwp9yA=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRyAAA=",
-        "subject": "FW: Proposta INFRASAT",
-        "from": "virgilio.alves@angolacables.com",
-        "to": "camuano.monteiro@infrasat.co.ao",
-        "date": "2026-04-30T13:08:29+00:00",
-        "preview": "Boa tarde Eng. Camuano,   Conforme falado em Maputo, segue em anexo a nossa proposta para upgrade da capacidade de IP Transito para a INFRASAT, de modos a corresponder com as vossas actuais necessi",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAEF7LxEc8NOqM5lP3okBLI=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRvAAA=",
-        "subject": "Re: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
-        "from": "joao.bioco@angolacables.com",
-        "to": "julio.chilela@angolacables.com;virgilio.alves@angolacables.com;samuel.carvalho@angolacables.co.ao;dorcas.maria@angolacables.com",
-        "date": "2026-04-30T12:27:51+00:00",
-        "preview": "Bom dia Júlio,  Tomei nota. Vou verificar a agenda dos intervenientes e marcar uma reunião para a próxima semana.  Cumprimentos. ________________________________ De: Julio Chilela <julio.chilela",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
       }
     ]
   },
-  "draft_candidates": [
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABPAAA=",
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA="
-  ],
+  "draft_candidates": [],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-05-04T12:28:11Z",
+    "fetched_at": "2026-05-04T13:27:48Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -925,7 +866,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-05-04T12:28:42Z",
+    "fetched_at": "2026-05-04T13:28:18Z",
     "hours_ahead": 24,
     "events": [
       {
