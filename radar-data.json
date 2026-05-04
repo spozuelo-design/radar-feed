@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-03T13:11:12.382936+00:00",
+  "generated_at": "2026-05-04T08:26:18.872593+00:00",
   "stats": {
-    "total": 79,
+    "total": 65,
     "urgent": 6,
-    "decision": 12,
-    "info": 59,
+    "decision": 9,
+    "info": 48,
     "noise_filtered": 2,
     "draft_candidates": 2,
     "engagement_check_active": true,
-    "skipped_existing_draft": 2,
+    "skipped_existing_draft": 1,
     "skipped_already_replied": 0
   },
   "lanes": {
@@ -253,57 +253,35 @@
           "decision/question hint",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRYAAA=",
-        "subject": "Re: Re:Seguimento da Reunião – CCC & Datacenter | Energia, Fibra e Água - Meeting Follow-Up – CCC & Datacenter | Power, Fibre and Water",
-        "from": "mobin.habib@epcabral.com",
-        "to": "osvaldo.joaquim@angolacables.co.ao;duozhaodong@caiec-om.com;gaspar.paulo@angolacables.com;luis.waleca@angolacables.com",
-        "date": "2026-04-30T08:20:34+00:00",
-        "preview": "Dear Osvaldo and team  Your team promised the responses yesterday. We are in a thigh timeline to deliver this project  Please you please provide all the information before 10 am?  Regards,  Mo",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAF6s-R7qPdpCrobT5SB5fsg=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "decision/question hint",
-          "CC-only — no auto-draft"
-        ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRRAAA=",
-        "subject": "Re: Cancelamento Contrato - Angonap",
-        "from": "rafael.lozano@telcables.com.br",
-        "to": "vanessa.camurca@telcables.com.br;sergio.pozuelo@angolacables.com;diego.nunes@telcables.com.br",
-        "date": "2026-04-30T02:13:31+00:00",
-        "preview": "Que opinam @Sergio Pozuelo e @Diego Nunes?",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": [
-          "decision/question hint",
-          "draft already exists in Rascunhos"
-        ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRBAAA=",
-        "subject": "Re: Jurumani / Angola Cables - Twyn Implementation",
-        "from": "rui.faria@angolacables.com",
-        "to": "quadevr@twyn.ai",
-        "date": "2026-04-29T15:06:04+00:00",
-        "preview": "Hello Quade,  Just replied to you WhatsApp message but I wil infrm here that our visit to your offices is preferable on Wednesday, 06/May, afternoon (3pm?).  Look forward to meet you.   De: Qua",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3Sf8Z-7ZlHj7LicG7DxpE=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "decision/question hint",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABBAAA=",
+        "subject": "Re: Visit to Angola  - Visa Application",
+        "from": "virgilio.alves@angolacables.com",
+        "to": "mutiiria@amazon.co.uk;artur.mendes@angolacables.com;eder.guimaraes@angolacables.com",
+        "date": "2026-05-04T05:34:49+00:00",
+        "preview": "Dear Martin,  Thank you for the update. We confirm our availability for the 7th of May.  Kind regards  ________________________________ De: Mutiiria, Martin <mutiiria@amazon.co.uk> Enviado: s",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAO5d9_Cn5UM-qUHyevVZ7mI=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABAAAA=",
+        "subject": "Feliz Aniversário, Ricardo José Dala !",
+        "from": "ac.notificacao@angolacables.co.ao",
+        "to": "aderito.pinto@angolacables.com;adilson.camenha@angolacables.co.ao;aldair.antonio@angolacables.co.ao;amit.salunke@angolacables.com;angelo.gomes@angolacables.com;antonio.cruz@angolacables.com;arlindo.alves@angolacables.co.ao;augusto.gomes@angolacables.com;belizandro.calupetec@angolacables.com;brigida.fortunato@angolacables.com;bruno.bernardo@angolacables.com;carlos.faria@angolacables.com;claudia.couceiro@angolacables.co.ao;costa.cula@angolacables.com;danilson.cabila@angolacables.com;djamila.caetano@angolacables.com;djamila.matias@angolacables.com;domingos.cahoji@angolacables.com;domingos.mendonca@angolacables.com;edvaldo.gomes@angolacables.com;elizabeth.francisco@angolacables.com;elizandra.companhia@angolacables.com;fabio.marcos@angolacables.com;fitu.sofrimento@angolacables.com;francisco.ginga@angolacables.com;gaspar.zangao@angolacables.com;ilidio.janota@angolacables.com;joao.bioco@angolacables.co.ao;joao.massuquinina@angolacables.com;joffrina.lima@ango lacables.com;jose.sandele@angolacables.com;josefina.francisco@angolacables.com;julieta.delgado@angolacables.com;kelveny.ramos@angolacables.com;lucio.bengue@angolacables.com;luis.waleca@angolacables.com;lukeba.jorge@angolacables.com;manuel.direito@angolacables.com;maria.jessica@angolacables.com;maria.leite@angolacables.com;maria.cuzambila@angolacables.com;mauro.santos@angolacables.com;mendes.goncalves@angolacables.co.ao;nsucami.victor@angolacables.com;nuno.silva@angolacables.com;olavio.pucuta@angolacables.com;osvaldo.joaquim@angolacables.co.ao;otniel.acacio@angolacables.com;pamela.braz@angolacables.co.ao;ricardo.faustino@angolacables.com;rosa.sardinha@angolacables.com;rosema.matias@angolacables.co.ao;samuel.carvalho@angolacables.co.ao;sergio.pozuelo@angolacables.com;sidney.andre@angolacables.com;solange.carvalho@angolacables.com;teresa.vunge@angolacables.com;vilma.esteves@angolacables.com;vita.miguel@angolacables.com;vita.ngombo@angolacables.com;walter.n arciso@angolacables.com;yolanda.alberto@angolacables.com;claudio.manuel@angolacables.com;cyberteam@tuamaeaquelaursa.com;janelton.vunge@angolacables.co.ao;sebastiao.antonio@angolacables.com;graciete.brandao@angolacables.co.ao;horacio.dovala@angolacables.co.ao;joao.jesus@angolacables.com;osvaldo.francisco@angolacables.co.ao;modesto.bemba@angolacables.co.ao;amancio.pedro@angolacables.com;creusa.nanga@angolacables.com;rishid.neto@angolacables.com;habibe1818@gmail.com;garcia.simao@angolacables.co.ao;antonio.tomas@angolacables.com",
+        "date": "2026-05-04T01:00:59+00:00",
+        "preview": "Atenciosamente / Best Regards  AC Notificação |  mob: ac.notificacao@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no meio ambien",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAEwXG3EgXiZNv92FWoCqZbQ=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI0-5MPAAA=",
         "subject": "TelcablesBR em mais uma edição da Abrint 2026",
@@ -901,175 +879,6 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRXAAA=",
-        "subject": "RE: Huawei IPL opportunity",
-        "from": "elizandra.companhia@angolacables.com",
-        "to": "sherif.noussair@orange.com",
-        "date": "2026-04-30T08:17:01+00:00",
-        "preview": "Hi Sherif, I hope you are doing well. Please accept my apologies for the delay in getting back to you. We carefully reviewed your request, and unfortunately, we are unable to proceed as it is curren",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRWAAA=",
-        "subject": "RE: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
-        "from": "virgilio.alves@angolacables.com",
-        "to": "samuel.carvalho@angolacables.co.ao;julio.chilela@angolacables.com;dorcas.maria@angolacables.com",
-        "date": "2026-04-30T06:17:50+00:00",
-        "preview": "Bom dia Samuel,  Sempre tivemos dificuldades neste serviço desde o início, mas acredito que podemos rever e afinar, para melhorar a qualidade, ou perceber as dificuldades do Cliente e criar um plano",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRVAAA=",
-        "subject": "RE: Solicitação de Revisão Salarial",
-        "from": "virgilio.alves@angolacables.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-30T06:15:43+00:00",
-        "preview": "Bom dia Sérgio,  Afirmativo. Entrarei em contacto com a Elizandra. ________________________________ De: Sergio Pozuelo <sergio.pozuelo@angolacables.com> Enviado: 29 de abril de 2026 19:20 Para:",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGLPaQizmYNPgkMZm19AO80=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRUAAA=",
-        "subject": "RE: Jurumani / Angola Cables - Twyn Implementation",
-        "from": "quadevr@twyn.ai",
-        "to": "rui.faria@angolacables.com",
-        "date": "2026-04-30T06:03:06+00:00",
-        "preview": "Hello Rui,  Thank you for your email. The meeting is confirmed. The address for our offices is in the meeting request. Please note that the main entrance to our office park is being renovated. Plea",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3Sf8Z-7ZlHj7LicG7DxpE=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRTAAA=",
-        "subject": "Re: Cancelamento Contrato - Angonap",
-        "from": "rafael.lozano@telcables.com.br",
-        "to": "daniele.maranhao@telcables.com.br;vanessa.camurca@telcables.com.br;sergio.pozuelo@angolacables.com;diego.nunes@telcables.com.br;rafaela.carvalho@telcables.com.br",
-        "date": "2026-04-30T03:05:28+00:00",
-        "preview": "Favor esperar ao feedback do Sérgio e Diego.  Obrigado  Obtener Outlook para iOS ________________________________ De: Daniele Maranhão <daniele.maranhao@telcables.com.br> Enviado: Wednesday, Ap",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRSAAA=",
-        "subject": "Re: Cancelamento Contrato - Angonap",
-        "from": "daniele.maranhao@telcables.com.br",
-        "to": "rafael.lozano@telcables.com.br;vanessa.camurca@telcables.com.br;sergio.pozuelo@angolacables.com;diego.nunes@telcables.com.br;rafaela.carvalho@telcables.com.br",
-        "date": "2026-04-30T02:42:56+00:00",
-        "preview": "Olá, @Rafael Lozano, Boa noite!  Seguiremos então com a sugestão do desconto de 50%. @Rafaela Carvalho, tendo em conta que a Vanessa está ausente, favor dar sequência a este tema.    Obter o O",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRQAAA=",
-        "subject": "RE: RFS (Ready For Service - PERMANENT CIRCUIT) - SERVICE ACTIVATION - 2x IPLC - DWDM 1 Lambda - 10 Gbps_LDA to JHB & LDA to FOR || WorldVu_OneWeb_OF 3327951 & OF 3327952",
-        "from": "olu.sowunmi@eutelsat.com",
-        "to": "maria.cuzambila@angolacables.com;babatunde.omogbai@eutelsat.com;luke.grcich@eutelsat.com;amit.salunke@angolacables.com;gary.mcintosh@eutelsat.com;amanda.arruda@angolacables.co.ao;armin.sepehri@eutelsat.com",
-        "date": "2026-04-30T01:54:29+00:00",
-        "preview": "Hello Maria,  Kindly confirm if you conducted an RFC 2544 test, a BERT test , or any similar tests on this circuit.  We only see a LAN Layer 2 Traffic Term Test Report attached and it just for 4 h",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAA7H3cEIDGdLpKXMStmZR9k=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRPAAA=",
-        "subject": "Day 2 Ignited the Grid. Day 3 Pushes Digital Sovereignty Further",
-        "from": "info@iotwestafrica.com",
-        "to": "sergio.pozuelo@angolacables.co.ao",
-        "date": "2026-04-29T22:48:54+00:00",
-        "preview": "Continue the journey tomorrow with bold conversations shaping Africa’s future *|MC_PREVIEW_TEXT|* ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKlAHdNLTDVNn7Vb-PLoG08=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlROAAA=",
-        "subject": "WO00000000325092 | MW | ANGOLA CABLES NETWORK | START 23:59 UTC 02/06/2026",
-        "from": "csm@angolacables.co.ao",
-        "to": "NOC@angolacables.com",
-        "date": "2026-04-29T19:22:10+00:00",
-        "preview": "Atenciosamente / Best Regards  Customer Support |  mob: +244 927 686 206 csm@angolacables.co.ao  https://www.angolacables.co.ao | AS 37468  .  Antes de imprimir esta mensagem, pense no mei",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAFtzARigDkYsgjT9y7uLjtc=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRNAAA=",
-        "subject": "RE: PROJECT_ID || 2061602018_ ESM PLATFORM IMPLEMENTATION || Weekly Project Planning & Alignment",
-        "from": "modesto.bemba@angolacables.co.ao",
-        "to": "alanb@jurumani.com;tiaang@jurumani.com;antoinettek@jurumani.co.za",
-        "date": "2026-04-29T19:22:00+00:00",
-        "preview": "Dear @Alan Brower, I hope this message finds you well. I am sharing attached the meeting notes from our session held on April 24, regarding the Weekly Project Planning & Alignment. and also the lin",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQANiYFBbRHblOtL0aVQAFLVk=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRGAAA=",
-        "subject": "MeetGeek Updates – Close, WhatsApp, Mobile Calendar, and more",
-        "from": "hello@meetgeek.ai",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-29T16:28:23+00:00",
-        "preview": "Hi Sergio,  This release leans heavily on a recurring theme: getting MeetGeek out of the browser and into the places where work happens. Your phone, your CRM, your WhatsApp. We've been hearing this",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALM8Nn0ko3JHsQXDgO0n5Ag=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRCAAA=",
-        "subject": "RE: Post Linkedin AICEP",
-        "from": "rosema.matias@angolacables.co.ao",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-29T15:13:01+00:00",
-        "preview": "Boa tarde, Sérgio. Espero-te bem.  Somente agora vejo o teu e-mail. Entretanto, a minha sugestão - reforçando a conversa da nossa última reunião - seria seguir com um artigo de opinião, que teria",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOxT04r0EBdClDEbxtl8qo0=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlQ3AAA=",
-        "subject": "Sergio, your inbox deserves an upgrade",
-        "from": "email@maestrolabs.com",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-29T13:35:31+00:00",
-        "preview": "20% off ends April 30 at 11:59 PM EST.   Hi Sergio, If your inbox is still:  - Eating hours of your week - Forcing you to rewrite basic replies - Making you hunt for important messages  Then",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP9w0obsHtxEnHh-_LV1EcM=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
       }
     ]
   },
@@ -1079,7 +888,7 @@
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-05-03T13:14:10Z",
+    "fetched_at": "2026-05-04T08:28:28Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -1162,39 +971,18 @@
         "kind": "overdue"
       }
     ],
-    "next_48h": [
-      {
-        "id": "86c2a1086",
-        "name": "GTH - ver que se passa com meu carro - conseguir proforma de um carro",
-        "url": "https://app.clickup.com/t/86c2a1086",
-        "status": "i need to do",
-        "due": "2026-05-04T01:00:00",
-        "due_ms": 1777856400000,
-        "list": "Mis Prioridades",
-        "kind": "next_48h"
-      }
-    ],
+    "next_48h": [],
     "stats": {
-      "overdue_total": 45,
+      "overdue_total": 46,
       "overdue_shown": 8,
-      "next_48h": 1
+      "next_48h": 0
     }
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-05-03T13:14:35Z",
+    "fetched_at": "2026-05-04T08:28:59Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qlwFcdAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAAROKXFgAAEA==",
-        "subject": "Reunião Semanal do Departamento Comercial [In-person]",
-        "start": "2026-05-04T09:00:00.0000000",
-        "end": "2026-05-04T09:30:00.0000000",
-        "location": "Sala WACS",
-        "organizer": "Virgílio Alves",
-        "isOnline": true,
-        "showAs": "busy"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qlwFcdAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAAROKW-gAAEA==",
         "subject": "Reunião Semanal de equipa TelCables Europa ",
@@ -1217,7 +1005,7 @@
       }
     ],
     "stats": {
-      "total": 3
+      "total": 2
     }
   }
 }
