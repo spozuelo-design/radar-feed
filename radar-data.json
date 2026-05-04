@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-04T10:26:19.104945+00:00",
+  "generated_at": "2026-05-04T11:26:19.107722+00:00",
   "stats": {
-    "total": 64,
+    "total": 63,
     "urgent": 4,
-    "decision": 9,
-    "info": 49,
+    "decision": 10,
+    "info": 47,
     "noise_filtered": 2,
-    "draft_candidates": 1,
+    "draft_candidates": 2,
     "engagement_check_active": true,
     "skipped_existing_draft": 1,
     "skipped_already_replied": 1
@@ -79,6 +79,21 @@
       }
     ],
     "decision": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABPAAA=",
+        "subject": "Re: CCT Global 2026",
+        "from": "artur.mendes@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-04T10:35:35+00:00",
+        "preview": "Bom dia Sérgio,  Já aprovaste?  Obrigado  De: Artur Mendes <artur.mendes@angolacables.com> Data: quinta-feira, 16 de abril de 2026 às 18:28 Para: Sergio Pozuelo <sergio.pozuelo@angolacables.co",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJ5YipT5TlxLp8msJ-46tlU=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABJAAA=",
         "subject": "Re: Angola Cables - Teams Access",
@@ -225,6 +240,32 @@
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABRAAA=",
+        "subject": "RE: BCS | L2 - ANGONAP - TERACO",
+        "from": "clesio.seco@angolacables.com",
+        "to": "elizandra.companhia@angolacables.com",
+        "date": "2026-05-04T11:23:56+00:00",
+        "preview": "Boa tarde, @Elizandra Companhia  Segue a cotação abaixo.  Serviço Ponta A Ponta Z Vigência (meses) Porta/Interface Capacidade NRC (Instalação) MRC (Mensalidade)  Connectivity EPLC-L2VP",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAALOqG4NI79HhvqKRLy5sFM=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABQAAA=",
+        "subject": "Fw: New quote journey in Twyn",
+        "from": "antoinettek@jurumani.com",
+        "to": "modesto.bemba@angolacables.co.ao",
+        "date": "2026-05-04T10:46:40+00:00",
+        "preview": "Good day Modesto and Daynara,  Hope you are doing well and that you had a lovely weekend.  I just want to follow up on the email that Tiaan sent to you on Thursday regarding a time to demonstrate",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKj9uQvlBfh9gtvks2IrgjQ=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABOAAA=",
         "subject": "CHECK IN NOVO COLABORADOR / NEW EMPLOYEE",
@@ -809,67 +850,16 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRoAAA=",
-        "subject": "RE: Post Linkedin AICEP",
-        "from": "rosema.matias@angolacables.co.ao",
-        "to": "sergio.pozuelo@angolacables.com",
-        "date": "2026-04-30T11:01:30+00:00",
-        "preview": "Olá, Sérgio.  Bem recebido. Vou partilhar com a nossa agência, para melhorar o enquadramento e seguir com um tom menos comercial.  Em momento oportuno, partilho a versão final para aprovação.",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOxT04r0EBdClDEbxtl8qo0=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRnAAA=",
-        "subject": "FW: Termination Request// Meridianam Atlanticus Funis // OF 2886978 // CT62014",
-        "from": "walter.narciso@angolacables.com",
-        "to": "ricardo.dala@angolacables.com;edmilson.lopes@angolacables.com",
-        "date": "2026-04-30T11:00:29+00:00",
-        "preview": "Boas @Ricardo Dala, @Edmilson Lopes, Conforme o e-mail em anexo relativo ao pedido de cancelamento de um serviço do cliente PCCW, ficou acordado que faturaremos até 12/05/2026. Após essa data, podere",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADWrdJISD3dAsWeGzY6rINk=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRmAAA=",
-        "subject": "Re: Emtel Durban Teraco Upgrade to 10G",
-        "from": "thabo.ntlatsang@telcables.co.za",
-        "to": "ivanio.costa@angolacables.com;vitor.pinho@angolacables.com;fabio.santos@angolacables.com;leonardo.almeida@angolacables.com;inacio.jose@angolacables.co.ao;josefina.francisco@angolacables.com",
-        "date": "2026-04-30T10:50:30+00:00",
-        "preview": "Hi Ivanio and Vito, I hope you are well. I am following up again regarding the outstanding card and QSFP for the Teraco Durban POP. The customer signed the SOF on 28 February 2026, and we are now s",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADtpFQxYAPNDioXlw25Xnow=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRlAAA=",
-        "subject": "Angola Cables | BCS IPT",
-        "from": "elizandra.companhia@angolacables.com",
-        "to": "yonas@bcs-ea.com",
-        "date": "2026-04-30T10:42:22+00:00",
-        "preview": "Hi Yonas, I hope this email finds you well. Further to your discussion with Sergio, please find attached the OF for the IPT service for your review. We kindly ask for your analysis and signature at",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAG6f1U3bDXNGo1ypmlhV1s4=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
       }
     ]
   },
   "draft_candidates": [
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABPAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA="
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-05-04T10:27:34Z",
+    "fetched_at": "2026-05-04T11:27:36Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -961,19 +951,9 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-05-04T10:27:52Z",
+    "fetched_at": "2026-05-04T11:28:10Z",
     "hours_ahead": 24,
     "events": [
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qlwFcdAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gABil7xuwAAEA==",
-        "subject": "TCSA - Weekly 1:1 ",
-        "start": "2026-05-04T10:30:00.0000000",
-        "end": "2026-05-04T11:00:00.0000000",
-        "location": "Reuniões do Microsoft Teams",
-        "organizer": "Sergio Pozuelo",
-        "isOnline": true,
-        "showAs": "busy"
-      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qo5QDEAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAA6YMafAAAEA==",
         "subject": "Weekly Sales Meeting",
@@ -996,7 +976,7 @@
       }
     ],
     "stats": {
-      "total": 3
+      "total": 2
     }
   }
 }
