@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-04T08:26:18.872593+00:00",
+  "generated_at": "2026-05-04T09:26:18.952155+00:00",
   "stats": {
-    "total": 65,
+    "total": 60,
     "urgent": 6,
-    "decision": 9,
-    "info": 48,
+    "decision": 8,
+    "info": 44,
     "noise_filtered": 2,
-    "draft_candidates": 2,
+    "draft_candidates": 1,
     "engagement_check_active": true,
-    "skipped_existing_draft": 1,
+    "skipped_existing_draft": 2,
     "skipped_already_replied": 0
   },
   "lanes": {
@@ -166,12 +166,13 @@
         "to": "sergio.pozuelo@angolacables.com",
         "date": "2026-04-30T16:35:25+00:00",
         "preview": "Hi Sergio,  We have shared brief details of your ICP below, did you get chance to review?  I just wanted to see if there is any other information required before we move to next step.  Please le",
-        "isRead": false,
+        "isRead": true,
         "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALS5lcOG_UUQsV3U92kC5cA=",
-        "needs_draft": true,
+        "needs_draft": false,
         "is_direct": true,
         "reasons": [
-          "decision/question hint"
+          "decision/question hint",
+          "draft already exists in Rascunhos"
         ]
       },
       {
@@ -237,25 +238,61 @@
           "decision/question hint",
           "CC-only — no auto-draft"
         ]
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRZAAA=",
-        "subject": "RE: Huawei IPL opportunity",
-        "from": "sherif.noussair@orange.com",
-        "to": "elizandra.companhia@angolacables.com",
-        "date": "2026-04-30T08:31:01+00:00",
-        "preview": "Hello Elizandra,                       Thank you a lot, I have a question though, when you say it is offnet for Angola Cables, does it mean Angola cables and Telecables?    Sherif Noussair Telco",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": [
-          "decision/question hint",
-          "CC-only — no auto-draft"
-        ]
       }
     ],
     "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABHAAA=",
+        "subject": "RE: Service Activation TVCABO ANGOLA- OF 26042711118200-Cross-connect 1XC AngoNAP Luanda",
+        "from": "kelveny.ramos@angolacables.com",
+        "to": "customer-care@angolacables.co.ao;service.delivery@angolacables.co.ao;amanda.arruda@angolacables.co.ao",
+        "date": "2026-05-04T09:13:05+00:00",
+        "preview": "Bom dia, Prezados @Customer Care  Informo que darei seguimento a este tema.   ________________________________ De: Customer Care <customer-care@angolacables.co.ao> Enviado: 30 de abril de 2026",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGrmK0MRFXZPmz76LOlrlpk=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABGAAA=",
+        "subject": "Re: Thabo's Travel Itinerary Q2",
+        "from": "alisha.badassy@telcables.co.za",
+        "to": "sudhir.juggernath@telcables.co.za;sergio.pozuelo@angolacables.com",
+        "date": "2026-05-04T09:05:03+00:00",
+        "preview": "Hi Sergio,  Trust you well and safe  Further to Sudhir's email, the thinking in using GITEX as the hub for meeting clients, All East Africa clients will be present at GITEX. This eliminates Thabo",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACWz1LFXPJhAvvlAr-Jud_Q=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABFAAA=",
+        "subject": "RE: Arrendamento de espaço no edifício Cellwave",
+        "from": "osvaldo.joaquim@angolacables.co.ao",
+        "to": "arlindo.alves@angolacables.co.ao;bruno.oliveira@angolacables.com;mauro.santos@angolacables.com;sergio.pozuelo@angolacables.com",
+        "date": "2026-05-04T09:02:45+00:00",
+        "preview": "Bom dia @Bruno Oliveira,  Os clientes atualmente instalados no POP Cellwave, bem como os respetivos valores contratuais acordados, encontram-se detalhados na tabela abaixo:   Atentamente,  ____",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAEGutl1R70fXoY6U_PEsj_M=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABEAAA=",
+        "subject": "BCS | L2 - ANGONAP - TERACO",
+        "from": "elizandra.companhia@angolacables.com",
+        "to": "frederico.daniel@angolacables.co.ao;pricing.ao@angolacables.co.ao",
+        "date": "2026-05-04T08:50:43+00:00",
+        "preview": "Bom dia, Fred.  Solicito por favor a melhor cotação para a BCS com os dados abaixo:  Serviço: L2 Capacidade : 10G And A: Angonap Luanda And Z: Teraco Cape town.  Obrigada.",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAALOqG4NI79HhvqKRLy5sFM=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
       {
         "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAI6LABBAAA=",
         "subject": "Re: Visit to Angola  - Visa Application",
@@ -775,120 +812,15 @@
         "needs_draft": false,
         "is_direct": false,
         "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRhAAA=",
-        "subject": "Re: Thabo's Travel Itinerary Q2",
-        "from": "sudhir.juggernath@telcables.co.za",
-        "to": "sergio.pozuelo@angolacables.com;alisha.badassy@telcables.co.za",
-        "date": "2026-04-30T09:00:27+00:00",
-        "preview": "hi Sergio  I hope that all is well  I agree and disagree with you  Dubai is always on a different level and very overwhelming, this part I agree with you.  I disagree on the part of customer s",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACWz1LFXPJhAvvlAr-Jud_Q=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRgAAA=",
-        "subject": "Re: Payment Acknowledgment & Update on Service Credit Request",
-        "from": "richard.ugah@telcables.ng",
-        "to": "babatunde.adeoye@telcables.ng;Patrick.Chen@edgenext.com;feng.han@edgenext.com",
-        "date": "2026-04-30T08:53:02+00:00",
-        "preview": "Dear Chen,  Trust this email meets you well.  Please note that we are yet to receive the value of the payment you shared.  Kindly share the telex copy so we follow up with our bank, or you can f",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMPg-UpprvRBpkEDJla3JaU=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRfAAA=",
-        "subject": "Re: Cancelamento Contrato - Angonap",
-        "from": "diego.nunes@telcables.com.br",
-        "to": "rafael.lozano@telcables.com.br;daniele.maranhao@telcables.com.br;vanessa.camurca@telcables.com.br;sergio.pozuelo@angolacables.com;rafaela.carvalho@telcables.com.br",
-        "date": "2026-04-30T08:50:03+00:00",
-        "preview": "Bom dia, a todos. Acho sensato em prol a futuras parcerias, flexibilizar o valor da multa.  Estou de acordo, com a proposta abaixo. Quanto a 1/4 de rack, existe uma fila de clientes aguardando a d",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADijvBOtKDJDljzZqUjVynk=",
-        "needs_draft": false,
-        "is_direct": true,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlReAAA=",
-        "subject": "RE: Huawei IPL opportunity",
-        "from": "elizandra.companhia@angolacables.com",
-        "to": "sherif.noussair@orange.com",
-        "date": "2026-04-30T08:45:44+00:00",
-        "preview": "Hi Sherif,  Correct.   ________________________________ De: sherif.noussair@orange.com <sherif.noussair@orange.com> Enviado: 30 de abril de 2026 09:30 Para: Elizandra Companhia <elizandra.comp",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQABkfRNp3S0lMvsSay69PccQ=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRdAAA=",
-        "subject": "Re: Jurumani / Angola Cables - Twyn Implementation",
-        "from": "rui.faria@angolacables.com",
-        "to": "quadevr@twyn.ai",
-        "date": "2026-04-30T08:43:35+00:00",
-        "preview": "Noted and thank you Quade.   De: Quade van Rooyen <quadevr@twyn.ai> Data: quinta-feira, 30 de abril de 2026 às 07:02 Para: Rui Faria <rui.faria@angolacables.com> CC: Alan Brower <alanb@jurumani.",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3Sf8Z-7ZlHj7LicG7DxpE=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRcAAA=",
-        "subject": "Payment Acknowledgment & Update on Service Credit Request",
-        "from": "babatunde.adeoye@telcables.ng",
-        "to": "Patrick.Chen@edgenext.com;feng.han@edgenext.com",
-        "date": "2026-04-30T08:43:27+00:00",
-        "preview": "Dear Chen, Thank you for your payment regarding the December 2025 invoice; we truly appreciate your continued partnership. Regarding your request for a waiver on the March 2026 invoice, please be ad",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMPg-UpprvRBpkEDJla3JaU=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRbAAA=",
-        "subject": "Re: Tel Cables Madeira - Invoices for February and march 2026 DONTSTOP-PLAY (Cancelamento)",
-        "from": "julio.chilela@angolacables.com",
-        "to": "virgilio.alves@angolacables.com;samuel.carvalho@angolacables.co.ao;dorcas.maria@angolacables.com;joao.bioco@angolacables.com",
-        "date": "2026-04-30T08:37:23+00:00",
-        "preview": "Bom dia Virgilio, Esse foi um serviço FTP customizado e feito para atender o cliente em especifico. Não é um produto de carteira. Enquanto não se abrem tickets via DOC ou contactem o suporte nunca sa",
-        "isRead": false,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC1opAXW2AlOjhzj7NB4ctY=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
-      },
-      {
-        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRaAAA=",
-        "subject": "RE: RFQ_16042026_PAY_1028 |  Why Your Deals Go Cold Before You Ever Get to the Close",
-        "from": "joao.jesus@angolacables.com",
-        "to": "antonio.francisco@angolacables.co.ao",
-        "date": "2026-04-30T08:37:10+00:00",
-        "preview": "Antonio ,  Bom dia !  Pensei que este assunto ja tivesse sido fechado   ________________________________ De: Josefina Francisco <josefina.francisco@angolacables.com> Enviadas: Quarta-feira, 2",
-        "isRead": true,
-        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKHrwdWU3PVGoYf3etRXqn8=",
-        "needs_draft": false,
-        "is_direct": false,
-        "reasons": []
       }
     ]
   },
   "draft_candidates": [
-    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAIwI_7fAAA=",
     "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAImmlRwAAA="
   ],
   "clickup": {
     "status": "ok",
-    "fetched_at": "2026-05-04T08:28:28Z",
+    "fetched_at": "2026-05-04T09:28:30Z",
     "overdue": [
       {
         "id": "86c274wga",
@@ -980,7 +912,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-05-04T08:28:59Z",
+    "fetched_at": "2026-05-04T09:28:45Z",
     "hours_ahead": 24,
     "events": [
       {
@@ -1002,10 +934,20 @@
         "organizer": "Sergio Pozuelo",
         "isOnline": true,
         "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qo5QDEAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAA6YMafAAAEA==",
+        "subject": "Weekly Sales Meeting",
+        "start": "2026-05-05T09:00:00.0000000",
+        "end": "2026-05-05T10:00:00.0000000",
+        "location": "Lekki Office",
+        "organizer": "Fernando Fernandes",
+        "isOnline": true,
+        "showAs": "busy"
       }
     ],
     "stats": {
-      "total": 2
+      "total": 3
     }
   }
 }
