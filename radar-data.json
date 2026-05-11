@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-11T11:18:56.585136+00:00",
+  "generated_at": "2026-05-11T11:17:36.656878+00:00",
   "stats": {
     "total": 25,
     "urgent": 2,
@@ -472,7 +472,7 @@
   },
   "calendar": {
     "status": "ok",
-    "fetched_at": "2026-05-11T11:22:51Z",
+    "fetched_at": "2026-05-11T11:22:52Z",
     "hours_ahead": 24,
     "events": [
       {
