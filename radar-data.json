@@ -1,15 +1,543 @@
 {
-  "status": "error",
-  "error": "No response file rsp_8a11c5f9294d.json within 240.0s",
-  "generated_at": "2026-05-11T11:00:06.274059+00:00",
-  "lanes": {
-    "urgent": [],
-    "decision": [],
-    "info": []
-  },
+  "status": "ok",
+  "generated_at": "2026-05-11T11:18:56.585136+00:00",
   "stats": {
-    "total": 0,
+    "total": 25,
+    "urgent": 2,
+    "decision": 5,
+    "info": 18,
     "noise_filtered": 0,
-    "drafts_pending": 0
+    "draft_candidates": 0,
+    "engagement_check_active": true,
+    "skipped_existing_draft": 0,
+    "skipped_already_replied": 1
+  },
+  "lanes": {
+    "urgent": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_juAAA=",
+        "subject": "RE: Relatório de gestão",
+        "from": "augusto.gomes@angolacables.com",
+        "to": "fernando.fernandes@telcables.ng",
+        "date": "2026-05-11T10:32:19+00:00",
+        "preview": "Bom dia, Fernando,  Estamos a trabalhar nas validações das informações. Faremos o envio do relatório ainda hoje.  From: Fernando Fernandes <fernando.fernandes@telcables.ng> Sent: Monday, May 11,",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMhNofwisgtKrynlvZrP28Y=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "urgent keyword",
+          "CC-only — no auto-draft"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jcAAA=",
+        "subject": "Re: Relatório de gestão",
+        "from": "fernando.fernandes@telcables.ng",
+        "to": "augusto.gomes@angolacables.com",
+        "date": "2026-05-11T08:02:05+00:00",
+        "preview": "Bom dia Augusto,  Fiquei no aguardo do relatório na passada sexta. Podes pf enviar hoje?  Obg.  ________________________________ De: Fernando Fernandes Enviado: Friday, May 8, 2026 8:36:31 AM",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMhNofwisgtKrynlvZrP28Y=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "urgent keyword",
+          "CC-only — no auto-draft"
+        ]
+      }
+    ],
+    "decision": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_j3AAA=",
+        "subject": "TelCables SA | Results for May 2026",
+        "from": "aida.pascoal@angolacables.com",
+        "to": "angelo.gama@angolacables.com;laura.carneiro@angolacables.com;rui.faria@angolacables.com;sudhir.juggernath@telcables.co.za;alisha.badassy@telcables.co.za;virgilio.alves@angolacables.com;samuel.carvalho@angolacables.co.ao;vanusa.gomes@angolacables.com;celma.paulo@telcables.pt;vitor.pinho@angolacables.com;teresa.vunge@angolacables.com;julio.chilela@angolacables.com;Jacqueline.Kitching@telcables.co.za;sergio.pozuelo@angolacables.com;adriano.caldevilla@angolacables.com;joao.jesus@angolacables.com;bruno.oliveira@angolacables.com",
+        "date": "2026-05-11T10:57:50+00:00",
+        "preview": "________________________________________________________________________________ Reunião Microsoft Teams Participar: https://teams.microsoft.com/meet/310161850338497?p=qSFcVX7hnxNlSAL9GU ID da Reun",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAG-DZFgg-_JBjC4hdiBQ4G0=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint",
+          "already replied (in Sent)"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_j1AAA=",
+        "subject": "Consolidated Monthly Report | GPC Presentation",
+        "from": "aida.pascoal@angolacables.com",
+        "to": "angelo.gama@angolacables.com;laura.carneiro@angolacables.com;rui.faria@angolacables.com;drt@angolacables.co.ao;ac.lideres@angolacables.co.ao;claudio.gomes@angolacables.com;adilson.camenha@angolacables.com;clementino.fernando@angolacables.com;brunilde.caxala@angolacables.com;dorcas.maria@angolacables.com;otniel.acacio@angolacables.com;vitor.pinho@angolacables.com;emerson.tiago@angolacables.com;daynara.lacerda@angolacables.co.ao;bruno.burgoa@angolacables.co.ao;izilda.tanda@angolacables.com;angelo.gomes@angolacables.com",
+        "date": "2026-05-11T10:52:13+00:00",
+        "preview": "________________________________________________________________________________ Reunião Microsoft Teams Participar: https://teams.microsoft.com/meet/310654236090471?p=Y9bhv6peDJOqHQYzOd ID da Reun",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAInQtGn1TkFEuPGb88RHUI4=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_j0AAA=",
+        "subject": "RE: SERVICE ACTIVATION -  2 x (EPLC - L2VPN 10Mbps) & DIA 10Mbps || EPCABRAL- OF 25120303550819",
+        "from": "maria.cuzambila@angolacables.com",
+        "to": "osvaldo.joaquim@angolacables.co.ao;amanda.arruda@angolacables.co.ao;djamila.matias@angolacables.com;luis.waleca@angolacables.com;arlindo.alves@angolacables.co.ao;adriano.caldevilla@angolacables.com;leonardo.almeida@angolacables.com;gaspar.paulo@angolacables.com",
+        "date": "2026-05-11T10:51:03+00:00",
+        "preview": "Prezados @Osvaldo Joaquim e @Gaspar Paulo,   Poderiam, por gentileza, nos atualizar sobre o andamento desta implementação?    ________________________________ De: Maria Cuzambila <maria.cuzamb",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAI_UJOHkeZhEiHn17JCwB24=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jzAAA=",
+        "subject": "RE: Service Suspension Angola Telecom- OF 300000004743022-IPLC STM-16 10 Gbps Lisboa, EQUINIX",
+        "from": "virgilio.alves@angolacables.com",
+        "to": "dorcas.maria@angolacables.com",
+        "date": "2026-05-11T10:50:10+00:00",
+        "preview": "Boas Dorcas,  Chegaram a ver este tema? ________________________________ De: Amit Salunke <amit.salunke@angolacables.com> Enviado: 29 de abril de 2026 10:16 Para: Kelveny Ramos <kelveny.ramos@an",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOZ_V4RxUwRDlMUfTQcg2ds=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jwAAA=",
+        "subject": "RE: Test VM in Ghana - Wangsu CDN new connection",
+        "from": "xiepl@wangsu.com",
+        "to": "babatunde.adeoye@telcables.ng;inacio.jose@angolacables.co.ao;leonardo.almeida@angolacables.com",
+        "date": "2026-05-11T10:44:30+00:00",
+        "preview": "Dear Inacio / Babatunde, good morning! May I expect your updates on the test VM at Ghana? Thank you!  *************************************************************  Thank you for the message & nic",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAB2vQp3sSEkVkpGmkcfeRyo=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": [
+          "decision/question hint",
+          "CC-only — no auto-draft"
+        ]
+      }
+    ],
+    "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_j5AAA=",
+        "subject": "RE: SERVICE ACTIVATION -  2 x (EPLC - L2VPN 10Mbps) & DIA 10Mbps || EPCABRAL- OF 25120303550819",
+        "from": "maria.cuzambila@angolacables.com",
+        "to": "osvaldo.joaquim@angolacables.co.ao;amanda.arruda@angolacables.co.ao;djamila.matias@angolacables.com;luis.waleca@angolacables.com;arlindo.alves@angolacables.co.ao;adriano.caldevilla@angolacables.com;leonardo.almeida@angolacables.com;gaspar.paulo@angolacables.com;virgilio.alves@angolacables.com",
+        "date": "2026-05-11T11:14:54+00:00",
+        "preview": "++ @Virgílio Alves,  ________________________________ De: Maria Cuzambila <maria.cuzambila@angolacables.com> Enviado: 11 de maio de 2026 11:50 Para: Osvaldo Joaquim <osvaldo.joaquim@angolacables.",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAI_UJOHkeZhEiHn17JCwB24=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_j4AAA=",
+        "subject": "Aceite: Monthly Sales Leaders Status",
+        "from": "artur.mendes@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-11T10:59:30+00:00",
+        "preview": "",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAH5jQmWEza1GnCbXQkfFajA=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_j2AAA=",
+        "subject": "RE: Service Suspension Angola Telecom- OF 300000004743022-IPLC STM-16 10 Gbps Lisboa, EQUINIX",
+        "from": "virgilio.alves@angolacables.com",
+        "to": "amit.salunke@angolacables.com;kelveny.ramos@angolacables.com;customer-care@angolacables.co.ao;service.delivery@angolacables.co.ao;amanda.arruda@angolacables.co.ao;elizandra.companhia@angolacables.com;sergio.pozuelo@angolacables.com",
+        "date": "2026-05-11T10:54:43+00:00",
+        "preview": "Hello @Amit Salunke,  We are a negotiating the reactivation of the service ID ESDHANGTSXLLIS000879, the other one I think is related with come agreement between AC and AT.  I'll check with CC and",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOZ_V4RxUwRDlMUfTQcg2ds=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jvAAA=",
+        "subject": "Re: Relatório de gestão",
+        "from": "fernando.fernandes@telcables.ng",
+        "to": "augusto.gomes@angolacables.com",
+        "date": "2026-05-11T10:39:38+00:00",
+        "preview": "Muito obrigado  ________________________________ De: Augusto Gomes <augusto.gomes@angolacables.com> Enviado: Monday, May 11, 2026 11:31:55 AM Para: Fernando Fernandes <fernando.fernandes@telcable",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMhNofwisgtKrynlvZrP28Y=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jrAAA=",
+        "subject": "RE: RFQ_16042026_PAY_1028 |  Why Your Deals Go Cold Before You Ever Get to the Close",
+        "from": "antonio.francisco@angolacables.co.ao",
+        "to": "josefina.francisco@angolacables.com;joao.jesus@angolacables.com",
+        "date": "2026-05-11T10:13:49+00:00",
+        "preview": "Bom dia, Josefina,  O processo continua em andamento.  Já na fase final. ________________________________ De: Josefina Francisco <josefina.francisco@angolacables.com> Enviado: segunda-feira, 11",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKHrwdWU3PVGoYf3etRXqn8=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jqAAA=",
+        "subject": "Formulário de Saída de Caixa - Pedido #1624 Aprovado Pelo Líder/Aprovador",
+        "from": "rui.faria@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-11T10:12:45+00:00",
+        "preview": "Seu pedido de saída de caixa de 210450 AOA submetido em 11/05/2026 11:06 foi APROVADO pelo seu Líder/Aprovador. Clique aqui para visualizar o pedido.",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAC8vpVJPQKxMoLl0n9X3gqE=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_joAAA=",
+        "subject": "RE: Eutelsat Acceptance | JNBZA21-LADAO21-PTP3 | L2WVOWLADJNB003000 by Angola Cables",
+        "from": "maria.cuzambila@angolacables.com",
+        "to": "olavio.pucuta@angolacables.com;olu.sowunmi@eutelsat.com;amanda.arruda@angolacables.co.ao;service.delivery@angolacables.co.ao",
+        "date": "2026-05-11T10:01:30+00:00",
+        "preview": "Dear @Olu Sowunmi,    The temporary circuit (L2WVOWLADJNB003000) has been deactivated.       ________________________________ De: Olavio Pucuta <olavio.pucuta@angolacables.com> Enviado: 1",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAL-QUJM835BGqkqgKBZN1co=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jnAAA=",
+        "subject": "RE: Eutelsat Acceptance | JNBZA21-LADAO21-PTP3 | L2WVOWLADJNB003000 by Angola Cables || 11/05/2026",
+        "from": "maria.cuzambila@angolacables.com",
+        "to": "olavio.pucuta@angolacables.com;amanda.arruda@angolacables.co.ao;service.delivery@angolacables.co.ao",
+        "date": "2026-05-11T10:00:45+00:00",
+        "preview": "Obrigada @Olavio Pucuta.    ________________________________ De: Olavio Pucuta <olavio.pucuta@angolacables.com> Enviado: 11 de maio de 2026 10:54 Para: Maria Cuzambila <maria.cuzambila@angolaca",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAF2I94fCsmtLs1GST2Eec78=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jmAAA=",
+        "subject": "The economics of Fortinet Secure LAN Edge, quantified",
+        "from": "info@global.fortinet.com",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-05-11T10:00:44+00:00",
+        "preview": "Forrester TEI study shows how LAN and security convergence delivered measurable business outcomes.  Forrester Consulting TEI study commissioned by Fortinet shows how LAN and security convergence del",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADwNbwYMZ_VGiNh5_WvX9xQ=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jlAAA=",
+        "subject": "RE: RFQ_16042026_PAY_1028 |  Why Your Deals Go Cold Before You Ever Get to the Close",
+        "from": "josefina.francisco@angolacables.com",
+        "to": "joao.jesus@angolacables.com;antonio.francisco@angolacables.co.ao",
+        "date": "2026-05-11T09:56:16+00:00",
+        "preview": "Ola @António Francisco  Saudações  Tens alguma atualização relativamente a este processo.    De: João Jesus <joao.jesus@angolacables.com> Enviada: quinta-feira, 30 de abril de 2026 09:37 Par",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKHrwdWU3PVGoYf3etRXqn8=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jkAAA=",
+        "subject": "RE: Eutelsat Acceptance | JNBZA21-LADAO21-PTP3 | L2WVOWLADJNB003000 by Angola Cables || 11/05/2026",
+        "from": "olavio.pucuta@angolacables.com",
+        "to": "maria.cuzambila@angolacables.com;amanda.arruda@angolacables.co.ao;service.delivery@angolacables.co.ao",
+        "date": "2026-05-11T09:54:28+00:00",
+        "preview": "@Maria Cuzambila,  Bem anotado, concluí com a desativação do serviço ID: L2WVOWLADJNB003000 conforme solicitado.   Cmprts,   ________________________________ De: Maria Cuzambila <maria.cuzamb",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAF2I94fCsmtLs1GST2Eec78=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jjAAA=",
+        "subject": "RE: Continuidade da solicitação",
+        "from": "lizeth.bastos@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com;claudio.gomes@angolacables.com",
+        "date": "2026-05-11T09:49:17+00:00",
+        "preview": "Bom dia @Cláudio Gomes,  Por favor, seguir com o processo de preenchimento da necessidade de Software junto ao Sérgio e Virgílio.  Obrigada.  ________________________________ De: Sergio Pozuelo",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMKwCSvj3g5Ct96-iJZK0Yk=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jiAAA=",
+        "subject": "RE: Eutelsat Acceptance | JNBZA21-LADAO21-PTP3 | L2WVOWLADJNB003000 by Angola Cables",
+        "from": "maria.cuzambila@angolacables.com",
+        "to": "olavio.pucuta@angolacables.com;amanda.arruda@angolacables.co.ao;service.delivery@angolacables.co.ao",
+        "date": "2026-05-11T09:39:13+00:00",
+        "preview": "@Olavio Pucuta,  Conforme falamos, trata-se de um circuito temporário que fornecemos ao cliente enquanto implementávamos o circuito principal entregue na semana passada ao cliente (ver email em anex",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAL-QUJM835BGqkqgKBZN1co=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jhAAA=",
+        "subject": "RE: Pricing Request – Multiple Subsea Routes",
+        "from": "frederico.daniel@angolacables.co.ao",
+        "to": "gilson.parceiro@telcables.pt;mahendran.naidu@telcables.co.za;ariete.pereira@angolacables.com",
+        "date": "2026-05-11T09:32:49+00:00",
+        "preview": "Hi @Gilson Domingos, good day.  Please find the quote for the solution shared. As we cannot meet the requirement.   Service A-End Z-End CAPACITY Term NRC MRC IPLC - EoDWDM Ascenty SP04 D",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAaPNqllOzVIoDnTt4R_VhQ=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jfAAA=",
+        "subject": "RE: TWYN Phase 2 - Planning and Requirements",
+        "from": "kelveny.ramos@angolacables.com",
+        "to": "alanb@jurumani.co.za;modesto.bemba@angolacables.co.ao;sergio.pozuelo@angolacables.co.ao;brunilde.caxala@angolacables.com;tiaang@jurumani.com;alryns@jurumani.com;antoinettek@jurumani.co.za;alryns@twyn.ai;daynara.lacerda@angolacables.co.ao;lizeth.bastos@angolacables.com",
+        "date": "2026-05-11T09:12:27+00:00",
+        "preview": "Hi @Alan, Morning  Please proceed with creating the groups using option 2.  Regarding the inconsistency found, please keep the rule as is and name it “Role.Operation Technical Team+DID |    Operat",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACCQ-MxfOYZFkAXMNWwMrIk=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jeAAA=",
+        "subject": "RE: Eutelsat Acceptance | JNBZA21-LADAO21-PTP3 | L2WVOWLADJNB003000 by Angola Cables",
+        "from": "olavio.pucuta@angolacables.com",
+        "to": "maria.cuzambila@angolacables.com;olu.sowunmi@eutelsat.com;amanda.arruda@angolacables.co.ao;service.delivery@angolacables.co.ao",
+        "date": "2026-05-11T09:04:23+00:00",
+        "preview": "Dear @Maria Cuzambila,  Could you share the OF , please.  Regards,    ________________________________ De: Maria Cuzambila <maria.cuzambila@angolacables.com> Enviado: 9 de maio de 2026 21:24",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAL-QUJM835BGqkqgKBZN1co=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jdAAA=",
+        "subject": "Re: Migração do Processo de Factuaraçao para o Financeiro",
+        "from": "joao.jesus@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com;dorcas.maria@angolacables.com",
+        "date": "2026-05-11T08:53:38+00:00",
+        "preview": "Caríssimos  Bom dia !  Só uma nota para reforçar que precisos do     1. Mapeamento dos processos de facturação   2. Mapas e ficheiros de suporte a facturação    _________________________",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAGXzqDbV8MBPp369GzD-9QI=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJRI_jbAAA=",
+        "subject": "Re: TWYN Phase 2 - Planning and Requirements",
+        "from": "alanb@jurumani.co.za",
+        "to": "kelveny.ramos@angolacables.com;modesto.bemba@angolacables.co.ao;sergio.pozuelo@angolacables.co.ao;brunilde.caxala@angolacables.com;tiaang@jurumani.com;alryns@jurumani.com;antoinettek@jurumani.co.za;alryns@twyn.ai;daynara.lacerda@angolacables.co.ao;lizeth.bastos@angolacables.com",
+        "date": "2026-05-11T06:27:52+00:00",
+        "preview": "Hi @Kelveny Ramos,  We have reviewed the provided structure and think Option 2 will be simpler to implement and more importantly maintain.  Option 1 would have 12 Roles with 168 Groups spread acro",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACCQ-MxfOYZFkAXMNWwMrIk=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      }
+    ]
+  },
+  "draft_candidates": [],
+  "clickup": {
+    "status": "ok",
+    "fetched_at": "2026-05-11T11:22:32Z",
+    "overdue": [
+      {
+        "id": "86c274wga",
+        "name": "2- Plano de Viagens - Follow-up - fiscalizar",
+        "url": "https://app.clickup.com/t/86c274wga",
+        "status": "i need to do",
+        "due": "2025-02-19T23:00:00",
+        "due_ms": 1740006000000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c2ehjk4",
+        "name": "RUI - DCM | Plano de Recrutamento. Aumentar a Força de Vendas (África Central+CPL, Brasil, Nigeria, Europa, USA): recrutamento comerciais e/",
+        "url": "https://app.clickup.com/t/86c2ehjk4",
+        "status": "i need to do",
+        "due": "2025-03-05T23:00:00",
+        "due_ms": 1741215600000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c2g7bv5",
+        "name": "ACSA - Catoca - ver que podemos fazer",
+        "url": "https://app.clickup.com/t/86c2g7bv5",
+        "status": "delegated",
+        "due": "2025-03-09T23:00:00",
+        "due_ms": 1741561200000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c2jnx70",
+        "name": "TCEUR - Plano de recrutamento - ajudar",
+        "url": "https://app.clickup.com/t/86c2jnx70",
+        "status": "i need to do",
+        "due": "2025-03-12T23:00:00",
+        "due_ms": 1741820400000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c4pbv8n",
+        "name": "Actions from the Steering Committe - Backlog",
+        "url": "https://app.clickup.com/t/86c4pbv8n",
+        "status": "i need to do",
+        "due": "2025-07-23T22:00:00",
+        "due_ms": 1753308000000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c4jfdc3",
+        "name": "Actions from the Steering Committe - Backlog da Nigeria",
+        "url": "https://app.clickup.com/t/86c4jfdc3",
+        "status": "i need to do",
+        "due": "2025-07-24T02:00:00",
+        "due_ms": 1753322400000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c23ndtp",
+        "name": "ACSA - Africell oportunity followup",
+        "url": "https://app.clickup.com/t/86c23ndtp",
+        "status": "i need to do",
+        "due": "2025-08-11T03:00:00",
+        "due_ms": 1754881200000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c4ydkuz",
+        "name": "TCSA - Implementar o Sales Book e estrutura de GTH de Brasil para TCSA",
+        "url": "https://app.clickup.com/t/86c4ydkuz",
+        "status": "i need to do",
+        "due": "2025-08-22T03:00:00",
+        "due_ms": 1755831600000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      }
+    ],
+    "next_48h": [
+      {
+        "id": "86c3tzg19",
+        "name": "GTH - Meu Visto (?)",
+        "url": "https://app.clickup.com/t/86c3tzg19",
+        "status": "i need to do",
+        "due": "2026-05-12T01:00:00",
+        "due_ms": 1778547600000,
+        "list": "Mis Prioridades",
+        "kind": "next_48h"
+      }
+    ],
+    "stats": {
+      "overdue_total": 41,
+      "overdue_shown": 8,
+      "next_48h": 1
+    }
+  },
+  "calendar": {
+    "status": "ok",
+    "fetched_at": "2026-05-11T11:22:51Z",
+    "hours_ahead": 24,
+    "events": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAJL3RA2AAA=",
+        "subject": "Validação interna – Análise Cambridge MC (Project Sable – Phase 1)",
+        "start": "2026-05-11T13:30:00.0000000",
+        "end": "2026-05-11T14:30:00.0000000",
+        "location": "Sala de Reunioes Piso 6",
+        "organizer": "Rui Faria",
+        "isOnline": false,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3qo5QDEAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gABzgWP-AAAEA==",
+        "subject": "Monthly Sales Leaders Status",
+        "start": "2026-05-11T14:30:00.0000000",
+        "end": "2026-05-11T15:30:00.0000000",
+        "location": "Reunião do Microsoft Teams",
+        "organizer": "Sergio Pozuelo",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAJD_DpDAAA=",
+        "subject": "Sergio Pozuelo and Jared Hall - Attio Demo",
+        "start": "2026-05-11T16:30:00.0000000",
+        "end": "2026-05-11T17:00:00.0000000",
+        "location": "https://attio.zoom.us/j/81196187211?pwd=BnUg9ZntoZaawQHVbjMaAOvoIPDCGa.1",
+        "organizer": "Jared Hall",
+        "isOnline": false,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3q_5aRVAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAAROKXJgAAEA==",
+        "subject": "Monthly Meeting | MKT & COM Angola",
+        "start": "2026-05-12T08:15:00.0000000",
+        "end": "2026-05-12T09:00:00.0000000",
+        "location": "Reunião do Microsoft Teams",
+        "organizer": "Rosema Matias",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3q_5aRVAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAA6YMafAAAEA==",
+        "subject": "Weekly Sales Meeting",
+        "start": "2026-05-12T09:00:00.0000000",
+        "end": "2026-05-12T10:00:00.0000000",
+        "location": "Lekki Office",
+        "organizer": "Fernando Fernandes",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3q_5aRVAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gAAROKXAwAAEA==",
+        "subject": "Sales Meeting ",
+        "start": "2026-05-12T10:00:00.0000000",
+        "end": "2026-05-12T11:30:00.0000000",
+        "location": "TCSA staff In Person - Office Boardroom",
+        "organizer": "Alisha Badassy",
+        "isOnline": true,
+        "showAs": "busy"
+      }
+    ],
+    "stats": {
+      "total": 6
+    }
   }
 }
