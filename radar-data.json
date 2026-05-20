@@ -1,15 +1,503 @@
 {
-  "status": "error",
-  "error": "No response file rsp_26e451041e06.json within 600.0s",
-  "generated_at": "2026-05-18T15:00:04.310257+00:00",
-  "lanes": {
-    "urgent": [],
-    "decision": [],
-    "info": []
-  },
+  "status": "ok",
+  "generated_at": "2026-05-20T08:06:26.536635+00:00",
   "stats": {
-    "total": 0,
-    "noise_filtered": 0,
-    "drafts_pending": 0
+    "total": 25,
+    "urgent": 2,
+    "decision": 7,
+    "info": 14,
+    "noise_filtered": 2,
+    "draft_candidates": 8,
+    "engagement_check_active": true,
+    "skipped_existing_draft": 0,
+    "skipped_already_replied": 1
+  },
+  "lanes": {
+    "urgent": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOpAAA=",
+        "subject": "Atlantic Convergence 2026 is taking shape | Secure your seat today",
+        "from": "ivo.ivanov@news.de-cix.net",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-20T07:35:16+00:00",
+        "preview": "Join us as we work towards building sustainable and secure digital infrastructures to power an AI enabled future. ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAJbnKIYJ6nNOiBVvzhzdTYQ=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "urgent keyword"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOjAAA=",
+        "subject": "Register Today] Exploring FortiSASE: The Future of Network Security",
+        "from": "info@global.fortinet.com",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-05-19T20:09:01+00:00",
+        "preview": "Don’t miss out - Register Today for our SASE Webinar |  View email online  WEBINAR:  Exploring FortiSASE: The Future of Network Security Wednesday - 20 May | 11:00 am (GMT +2)  We explore the inc",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAOy62cOnSgxLuJKrtHTnZVo=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "urgent keyword"
+        ]
+      }
+    ],
+    "decision": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOkAAA=",
+        "subject": "Re: Plano de recuperação e reforço do Forecast Q2–Q3 | Brasil ",
+        "from": "rafael.lozano@telcables.com.br",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T21:52:53+00:00",
+        "preview": "Ola Sergio, tudo bem?  É possível me dar um prazo um pouco maior? Estamos no ITW de Washington com agenda cheia até o mesmo dia 21/05, dia em que tb retorno para o Brasil chegando na sexta de manhã",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMObWrBb2-5In3xB7Y4Dmys=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint",
+          "already replied (in Sent)"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOdAAA=",
+        "subject": "RE: angolacables.co.ao",
+        "from": "myna.g@gma-datasol.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T17:45:19+00:00",
+        "preview": "Hi Sergio,  I have reached out a couple of times with details around your ICP and wanted to check whether my emails are coming through. Please confirm if you received my previous emails also let me",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALS5lcOG_UUQsV3U92kC5cA=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfxAAA=",
+        "subject": "Webinar: API-driven Silent Authentication: Can telcos risk being too slow?",
+        "from": "miriam.sabapathy@stlpartners.com",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-05-19T13:28:54+00:00",
+        "preview": "Hello Sergio,  I hope you're keeping well!  I am pleased to invite you to our upcoming webinar on “​​API-driven Silent Authentication: Can telcos risk being too slow?”.  This will be a 1 hour se",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAO5MGedo2DBDqW-Mblpkzdc=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfwAAA=",
+        "subject": "Webinar: API-driven Silent Authentication: Can telcos risk being too slow?",
+        "from": "miriam.sabapathy@stlpartners.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T13:28:48+00:00",
+        "preview": "Hello Sergio,  I hope you're keeping well!  I am pleased to invite you to our upcoming webinar on “​​API-driven Silent Authentication: Can telcos risk being too slow?”.  This will be a 1 hour se",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAIZYfOaO38VBnfpyYZpaiCM=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVftAAA=",
+        "subject": "1,519 meeting requests sent: Are you on the networking app?",
+        "from": "Datacloud@comms.datacloudseries.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T11:23:00+00:00",
+        "preview": "Hi Sergio,   Datacloud Global Congress is fast approaching, and 2026 is already breaking every record in the event history. As the event scales, so does the calibre of the audience. This year, we’r",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAG89eCUpzWxIuhoU5AHWjrk=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfsAAA=",
+        "subject": "Boeing and Gilat Achieve Key In-Cabin Offerability Milestone for Sidewinder Line-fit Multi‑Orbit Solution",
+        "from": "PressRelease@gilat.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T11:17:32+00:00",
+        "preview": "No images? Click here    May 19, 2026  Boeing and Gilat Achieve Key In-Cabin Offerability Milestone for Sidewinder Line-fit Multi‑Orbit Solution  Advances availability of an open, no lock in l",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAI0zklSi6NxAjxovYJyUSXI=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfnAAA=",
+        "subject": "1,519 meeting requests sent: Are you on the networking app?",
+        "from": "Datacloud@comms.datacloudseries.com",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-05-19T09:43:57+00:00",
+        "preview": "Hi Sergio,   Datacloud Global Congress is fast approaching, and 2026 is already breaking every record in the event history. As the event scales, so does the calibre of the audience. This year, we’r",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKkOMIGDnkpMkqvFgrxjNpA=",
+        "needs_draft": true,
+        "is_direct": true,
+        "reasons": [
+          "decision/question hint"
+        ]
+      }
+    ],
+    "info": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOqAAA=",
+        "subject": "Cancelado: TelCables Nigeria | Results for May 2026",
+        "from": "aida.pascoal@angolacables.com",
+        "to": "angelo.gama@angolacables.com;rui.faria@angolacables.com;laura.carneiro@angolacables.com;bruno.oliveira@angolacables.com;samuel.carvalho@angolacables.co.ao;vanusa.gomes@angolacables.com;vitor.pinho@angolacables.com;teresa.vunge@angolacables.com;virgilio.alves@angolacables.com;joao.jesus@angolacables.com;adriano.caldevilla@angolacables.com;julio.chilela@angolacables.com;fernando.fernandes@telcables.ng;celma.paulo@telcables.pt;sergio.pozuelo@angolacables.com",
+        "date": "2026-05-20T07:58:48+00:00",
+        "preview": "Bom dia colegas, A reunião será reagendada por razoes de agenda, Oportunamente enviarei o convite. Agradeço a comprienssao",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAHRZ5_Z7O1FOjStQ1eIudrQ=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOoAAA=",
+        "subject": "Welcome to the Brand New Arete Global",
+        "from": "sales@global-arete.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-20T07:07:52+00:00",
+        "preview": "͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌     ͏ ‌",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAFCvF3XmaNCm-EYT0Z74tA=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOmAAA=",
+        "subject": "Re: Offer request 2026051102000221_42 - RQ0544152 - Lufthansa AG",
+        "from": "afink@fink-telecom.com",
+        "to": "virgilio.alves@angolacables.com",
+        "date": "2026-05-20T06:24:46+00:00",
+        "preview": "Dear Virgilio Alves   My collegue Foday Musa Kaba is on site in a few days and will check out the local loop probelmatic.  We sure can deliver the service. Its just a question if we use fiber or",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQALNlDnabu0nkppyPaU6qIF0=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOiAAA=",
+        "subject": "Re: Colaboradores das Operacoes de Vendas",
+        "from": "arlindo.alves@angolacables.co.ao",
+        "to": "emerson.tiago@angolacables.com",
+        "date": "2026-05-19T19:40:36+00:00",
+        "preview": "Boa noite @Emerson Tiago,  Obrigado pela informação! Porem, compreende-se que somente o técnico é que está a ser transferido e não as responsabilidades do Corporate que o técnico desempenha.  Nest",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAKcgoeXSkEZGhNSqTbWJR-U=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOhAAA=",
+        "subject": "Imersão ONE | Seu acesso já está disponível",
+        "from": "contato-one@alura.com.br",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-05-19T18:55:56+00:00",
+        "preview": "Olá Sergio!    Seu acesso à Imersão ONE: Agentes de IA já está pronto!  Para começar, basta ativar seu acesso e entrar na plataforma.  👉 Acesse agora a Imersão  Para garantir que você consig",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAP3rKf1jGmBJsPZs_dcGkSg=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOgAAA=",
+        "subject": "Imersão ONE | Sua inscrição foi realizada com sucesso 🚀",
+        "from": "contato-one@alura.com.br",
+        "to": "sergio.pozuelo@angolacables.co.ao",
+        "date": "2026-05-19T18:35:54+00:00",
+        "preview": "Olá Sergio,    Sua inscrição na Imersão ONE: Agentes de IA já está confirmada. Confira as informações a seguir antes de iniciar:    📅 Live de boas-vindas: 11 de junho 📍 YouTube ⏰ 19h",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAAMPm5eiGG1KkYsvC9Ziq9g=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOfAAA=",
+        "subject": "2026 Agenda Now Live!",
+        "from": "marketing@comms.capacityglobal.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T18:01:42+00:00",
+        "preview": "BOOK YOUR TICKET NOW AND SAVE $450 VIEW 2025 ATTENDEES  Dear Sergio,   The agenda is live - and the biggest conversations in digital infrastructure are taking centre stage at Mexico Connect 2026",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAN2Ej7u3oANPqlDTH-1Of8g=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVf6AAA=",
+        "subject": "Certificação Internacional em Jornada do Cliente",
+        "from": "amancio.pedro@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T16:07:57+00:00",
+        "preview": "Prezado Sergio, Espero que este email o encontre bem. Venho por este meio solicitar, se possível, a sua intervenção junto da área de Recursos Humanos, no sentido de viabilizar a minha participação n",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAFt25P3UK65Esew8u3jh1fY=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVf3AAA=",
+        "subject": "RE: PROJECT_ID: 1000601017 || Programa de Parceiros - Actas das Reuniões",
+        "from": "modesto.bemba@angolacables.co.ao",
+        "to": "angelo.gama@angolacables.com;sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T14:48:21+00:00",
+        "preview": "tendo sido submetida essa possibilidade em sede de reunião do projecto e depois de uma avaliação mais profundo, @Sergio Pozuelo concluído que o melhor caminho seria via Procurement. Essa posição impli",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAMrWZdK7pY5KsaK9LdjnGko=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVf2AAA=",
+        "subject": "RE: Relatório Produtos Março - Dados BI",
+        "from": "nsucami.victor@angolacables.com",
+        "to": "augusto.gomes@angolacables.com;otniel.acacio@angolacables.com",
+        "date": "2026-05-19T14:46:12+00:00",
+        "preview": "Boa tarde @Augusto Gomes e @Otniel Acácio  Até ao momento, continuamos em falta do Relatório de Produtos; e infelizmente por conta disso, também estamos em falta pra apresentação na reunião do Conse",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAANCA4-GpPVIjjr80wiGlVY=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVf1AAA=",
+        "subject": "20% off 🇺🇸 Enjoy your long weekend without email stress",
+        "from": "email@maestrolabs.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T14:10:51+00:00",
+        "preview": "Come back Tuesday to an organized inbox that works for you.  Hi Sergio,  Memorial Day weekend should be about rest, BBQs, and time off—not dreading the email pile-up waiting for you Tuesday mornin",
+        "isRead": false,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADx5i9Jq4JlKvBrRff3HmM8=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVflAAA=",
+        "subject": "NaaS (Megaport) | Formação para Vendas",
+        "from": "rui.faria@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com;samuel.carvalho@angolacables.co.ao",
+        "date": "2026-05-19T08:48:46+00:00",
+        "preview": "Bom dia Sergio,  Agradeço que com urgência seja agendada uma formação interna sobre como vender o produto NaaS nos mercados de Africa (Angola/África do Sul) e do Brasil.  As verticais de negocio d",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQACRGKExk-StBmct1AWKTZDE=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfkAAA=",
+        "subject": "Conselho de Gestão Abril 2026 | Revisão dos Planos de Negócios de POPs",
+        "from": "rui.faria@angolacables.com",
+        "to": "rafael.lozano@telcables.com.br",
+        "date": "2026-05-19T08:44:40+00:00",
+        "preview": "Bom dia Lozano,  Ontem durante a apresentação do relatório de gestão da área comercial global, ficou evidenciado que o POP de BH apresenta problemas de viabilidade, pois os custos continuam a aument",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQAD_A7aeN_CVCmXFF6iTaYsc=",
+        "needs_draft": false,
+        "is_direct": false,
+        "reasons": []
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfjAAA=",
+        "subject": "Conselho de Gestão Abril 2026 | Acções ",
+        "from": "rui.faria@angolacables.com",
+        "to": "sergio.pozuelo@angolacables.com",
+        "date": "2026-05-19T08:39:29+00:00",
+        "preview": "Bom dia Sergio,  Da reunião de ontem e durante a analise dos resultados de vendas apresentados ficaram identificadas as seguintes acções:  A#1 Plano de Recuperação (e reforço) do Forecast do Q2 e",
+        "isRead": true,
+        "conversationId": "AAQkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwAQADqZvq61pC1Grw1wl9zadI4=",
+        "needs_draft": false,
+        "is_direct": true,
+        "reasons": []
+      }
+    ]
+  },
+  "draft_candidates": [
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOpAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOjAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJ6VDOdAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfxAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfwAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVftAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfsAAA=",
+    "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAEMAABkX_vJhZpsQ4GDgPRPQmDWAAJxQVfnAAA="
+  ],
+  "clickup": {
+    "status": "ok",
+    "fetched_at": "2026-05-20T08:07:33Z",
+    "overdue": [
+      {
+        "id": "86c274wga",
+        "name": "2- Plano de Viagens - Follow-up - fiscalizar",
+        "url": "https://app.clickup.com/t/86c274wga",
+        "status": "i need to do",
+        "due": "2025-02-19T23:00:00",
+        "due_ms": 1740006000000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c2ehjk4",
+        "name": "RUI - DCM | Plano de Recrutamento. Aumentar a Força de Vendas (África Central+CPL, Brasil, Nigeria, Europa, USA): recrutamento comerciais e/",
+        "url": "https://app.clickup.com/t/86c2ehjk4",
+        "status": "i need to do",
+        "due": "2025-03-05T23:00:00",
+        "due_ms": 1741215600000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c2g7bv5",
+        "name": "ACSA - Catoca - ver que podemos fazer",
+        "url": "https://app.clickup.com/t/86c2g7bv5",
+        "status": "delegated",
+        "due": "2025-03-09T23:00:00",
+        "due_ms": 1741561200000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c2jnx70",
+        "name": "TCEUR - Plano de recrutamento - ajudar",
+        "url": "https://app.clickup.com/t/86c2jnx70",
+        "status": "i need to do",
+        "due": "2025-03-12T23:00:00",
+        "due_ms": 1741820400000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c4pbv8n",
+        "name": "Actions from the Steering Committe - Backlog",
+        "url": "https://app.clickup.com/t/86c4pbv8n",
+        "status": "i need to do",
+        "due": "2025-07-23T22:00:00",
+        "due_ms": 1753308000000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c4jfdc3",
+        "name": "Actions from the Steering Committe - Backlog da Nigeria",
+        "url": "https://app.clickup.com/t/86c4jfdc3",
+        "status": "i need to do",
+        "due": "2025-07-24T02:00:00",
+        "due_ms": 1753322400000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c23ndtp",
+        "name": "ACSA - Africell oportunity followup",
+        "url": "https://app.clickup.com/t/86c23ndtp",
+        "status": "i need to do",
+        "due": "2025-08-11T03:00:00",
+        "due_ms": 1754881200000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      },
+      {
+        "id": "86c4ydkuz",
+        "name": "TCSA - Implementar o Sales Book e estrutura de GTH de Brasil para TCSA",
+        "url": "https://app.clickup.com/t/86c4ydkuz",
+        "status": "i need to do",
+        "due": "2025-08-22T03:00:00",
+        "due_ms": 1755831600000,
+        "list": "Mis Prioridades",
+        "kind": "overdue"
+      }
+    ],
+    "next_48h": [],
+    "stats": {
+      "overdue_total": 40,
+      "overdue_shown": 8,
+      "next_48h": 0
+    }
+  },
+  "calendar": {
+    "status": "ok",
+    "fetched_at": "2026-05-20T08:08:06Z",
+    "hours_ahead": 24,
+    "events": [
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAJ7KdMcAAA=",
+        "subject": "Angola Cable ",
+        "start": "2026-05-20T09:30:00.0000000",
+        "end": "2026-05-20T10:30:00.0000000",
+        "location": "Teams Call",
+        "organizer": "oussama_naous@hotmail.com",
+        "isOnline": false,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAJD_Do8AAA=",
+        "subject": "Cancelado: TelCables Nigeria | Results for May 2026",
+        "start": "2026-05-20T10:30:00.0000000",
+        "end": "2026-05-20T11:30:00.0000000",
+        "location": "Reunião do Microsoft Teams",
+        "organizer": "Aida Pascoal",
+        "isOnline": true,
+        "showAs": "free"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3rYCvGNAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gACQ-g6PQAAEA==",
+        "subject": "TWYN - Service Delivery and Help Desk Session",
+        "start": "2026-05-20T13:30:00.0000000",
+        "end": "2026-05-20T14:30:00.0000000",
+        "location": "Reuniões do Microsoft Teams",
+        "organizer": "Modesto Bemba",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwFRAAgI3rYCvGNAAEYAAAAAZlhHPLTKo06kcl8K1R8y0QcAZF-ryYWabEOBg4D0T0Jg1gAAAAABDQAAZF-ryYWabEOBg4D0T0Jg1gABrJ-1CwAAEA==",
+        "subject": "Reunião Comercial Time Brasil",
+        "start": "2026-05-20T13:30:00.0000000",
+        "end": "2026-05-20T15:00:00.0000000",
+        "location": "Reuniões do Microsoft Teams",
+        "organizer": "Diego Nunes",
+        "isOnline": true,
+        "showAs": "busy"
+      },
+      {
+        "id": "AAMkAGEyZDYyNmQxLWI3NGEtNGI0Ni1iZWU1LTIyNjkwZWU2NjE2YwBGAAAAAABmWEc8tMqjTqRyXwrVHzLRBwBkX_vJhZpsQ4GDgPRPQmDWAAAAAAENAABkX_vJhZpsQ4GDgPRPQmDWAAJxbx6IAAA=",
+        "subject": "Apresentação da estrutura | Vertical Wholesale",
+        "start": "2026-05-20T15:00:00.0000000",
+        "end": "2026-05-20T16:00:00.0000000",
+        "location": "Sala de Reuniões",
+        "organizer": "Emerson Tiago",
+        "isOnline": true,
+        "showAs": "busy"
+      }
+    ],
+    "stats": {
+      "total": 5
+    }
   }
 }
